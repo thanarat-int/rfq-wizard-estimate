@@ -1,0 +1,882 @@
+Total pages: 62
+================================================================================
+
+--- PAGE 1 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltd
+Estimate Packaging
+1
+
+--- PAGE 2 of 62 ---
+1.Materials
+•Paper
+•Plate
+2.Print (Press) –Special ink
+3.After Press
+•Die-cut
+•Assembly (ประกบ/ติดลิ้นกาว )
+•แกะ
+•Inspection
+4.Packing
+•Paper band
+•Kraft wrap
+•Carton
+•Pallet•Coating
+•Foil stamp
+•Emboss
+•DebossAdd-ons
+Department of Engineer Sirivatana interprint public co.,ltdPackaging Production
+2
+
+--- PAGE 3 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdประเภทพิมพ์ ลักษณะ จุดเด่น ข้อจ ำกัด เหมำะกับงำน
+Offset •การพิมพ์ระบบเพลท (Plate)•คุณภาพสูง สีคม สม ่าเสมอ•ต้องท าเพลท
+•ไม่เหมาะกับงานจ านวนน้อย•หนังสือ / นิตยสาร
+•งานพิมพ์จ านวนมาก (พัน-แสน)
+Flexo •ใช้เพลทยางหรือโพลิเมอร์ •เหมาะกับงานบรรจุภัณฑ์ •ภาพไม่ละเอียด •กล่องลูกฟูก
+Jet Press•ไม่มีเพลท พิมพ์ตรงจากไฟล์
+•Inkjet (หมึกน ้า)•เหมาะกับงานคุณภาพสูง
+•แก้ไฟล์ / เปลี่ยนข้อมูลได้ทั นที•ต้นทุนต่อแผ่นสูงกว่า Offset
+•ต้องควบคุมกระดาษและหมึก
+เฉพาะ•งานที่ต้องการความเร็ว + 
+คุณภาพ
+•ปริมาณกลางๆ
+•หนังสือคุณภาพสูง
+Konica•ไม่มีเพลท
+•Toner (ผงหมึก)•เร็วมากส าหรับงานจ านวนน้อ ย
+•Set up ง่าย แก้งานสะดวก•คุณภาพสีและผิวงานด้อยกว่า  
+Offset / Jet Press
+•ข้อจ ากัดเรื่องชนิดกระดาษบ าง
+ประเภท•งานเร่งด่วน
+•หนังสือจ านวนน้อยประเภทพิมพ์
+3
+
+--- PAGE 4 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdFoil Stamp
+Foil Stamp
+•การ ปั๊มฟอยล์โลหะหรือฟิล์มสี ลงบนงานพิมพ์ด้วยความร้อนและแรงกด
+ลักษณะ : 
+•ผิว เงา สะท้อนแสง
+•สีที่นิยม: ทอง เงิน โรสโกลด์ โฮโลแกรม สีพิเศษต่าง ๆ
+•ไม่ได้นูนหรือบุ๋ม (ถ้าไม่สั่งรวมกับ emboss/deboss)
+4
+
+--- PAGE 5 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdEmboss / Deboss
+Emboss
+•การ กดให้ลวดลายหรือข้อความ “นูนขึ้น” จากผิวกระดาษ
+•อาจท าบนงานพิมพ์หรือไม่พิมพ์สีก็ได้
+•ไม่มีสีเพิ่ม (อาศัยแสงเงา)Deboss
+•การ กดให้ลวดลายหรือข้อความ “บุ๋มลง” จากผิวกระดาษ
+•อาจท าบนงานพิมพ์หรือไม่พิมพ์สีก็ได้
+•ไม่มีสีเพิ่ม (อาศัยแสงเงา)
+5
+
+--- PAGE 6 of 62 ---
+CMYK
+•ระบบสีมาตรฐานของงานพิมพ์
+•C= Cyan (ฟ้า)
+•M= Magenta (ชมพู)
+•Y= Yellow (เหลือง)
+•K= Black (ด า)
+•พิมพ์ซ้อนกันเป็นจุดเล็ก ๆ
+•ผสมกันจนเกิดเป็นสีต่าง ๆ
+Special Ink
+•สีที่พิมพ์แยกหมึกเป็นสี ๆ ไปเล ย ไม่
+ผสมจาก CMYK
+•สีตรงกว่า CMYK
+•คุมสีได้แม่นย า
+Department of Engineer Sirivatana interprint public co.,ltdหมึกพิมพ์
+6
+
+--- PAGE 7 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdColor Limit
+Color Limit : Light / Standard / Dark
+7
+
+--- PAGE 8 of 62 ---
+12 mm : gripper
+8 mm : color bar4 mm : paper edge
+4 mm : paper edge
+ขนำดชิ้นงำน (open size รวมbleed)
+Layout Size Paper Size
+Department of Engineer Sirivatana interprint public co.,ltdLayout
+8
+
+--- PAGE 9 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdTemplate Type 1: กล่องฝำคู่ : Reverse Tuck End
+ Template Type 3: กล่องออโต้ล็อคแบบหูขัด 
+: Tuck Top Snap Lock Bottom (TTSLB)
+Template Type 4: กล่องออโต้ล็อคแบบทากาว 
+:  Tuck Top Auto Bottom (TTAB)
+Template Type 5: กล่องฝาครอบ 
+: Double Glue Side Wall (Simplex Tray)
+Template Type 6: กล่องฝาครอบ มีขอบ 
+: Frame -Vue Tray
+9
+
+--- PAGE 10 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdTemplate Type 7: กล่องเบนโตะ 
+: Four Corner Beers Tray with Lid
+Template Type 8: กล่องทรงจั่ว 
+: Gable Top with Auto Bottom***(review)
+Template Type 9: ปลอกกล่อง : Sleeve
+Template Type 10: กล่องทรงหมอน 
+: Pillow Box
+Template Type 11: กล่องฝาป ิ ดแบบทากาว 
+: Seal End
+Template Type 12: Custom
+10
+
+--- PAGE 11 of 62 ---
+Qty= จ านวนยอดงาน After waste = After ups + Waste Paper qty = Paper Print / Split
+Ups = จ านวนชิ้นที่ลงได้ Sig= จ านวนยก 1 (งาน Packaging = 1 เสมอ) Paper Net = Roundup(Paper qty) เต็มร้อย
+After ups = Roundup(Qty/Ups) Paper Print = After Waste * Sig Tons = น ้าหนักรวมของกระดาษที่ใช้
+Waste = จ านวนเผื่อเสีย Split = จ านวนผ่าพิมพ์
+Department of Engineer Sirivatana interprint public co.,ltdLayout
+11
+
+--- PAGE 12 of 62 ---
+Ex.25 x 36
+•หน้าม้วนกว้าง 25 นิ้ว
+•ความยาวการตัดต่อ 1 แผ่น คือ 36 นิ้ว 
+หน้าม้วน = 25 นิ้ว Cut off = 36 นิ้ว
+ถูกเกรน
+เกรนชิ้นงาน ขนานเกรนกระดาษผิดเกรน
+เกรนชิ้นงาน ตั้งฉากเกรนกระดาษ
+Department of Engineer Sirivatana interprint public co.,ltdหน้ำม้วน / Cut off
+ถูกเกรน / ผิดเกรน
+เกรนชิ้นงำน เกรนกระดำษ เกรนกระดำษ
+12
+
+--- PAGE 13 of 62 ---
+Ex.31 x 43 -> 28 x 40
+Ex.31 x 43 -> 31 x 21.5
+Ex.31 x 43 -> 31 x 14.3
+Ex.31 x 43 -> 15.5 x 21.5
+Split = 1
+Split = 2
+Split = 3
+Split = 4
+Department of Engineer Sirivatana interprint public co.,ltdSplit
+31
+31
+31
+31313143
+43
+43
+432840
+21.5 21.5
+14.3 14.3 14.3
+15.5
+15.521.5 21.5
+13
+
+--- PAGE 14 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltd
+Estimate Book
+14
+
+--- PAGE 15 of 62 ---
+แผ่นพับ (Folded brochure )
+ใบปลิว (Leaflet )
+เย็บเข็ม (Saddle stitch )
+Square back
+Round back
+Square back
+Round back
+Square back
+Round back
+Standard (โชว์ห่วง)
+Square back
+Round back
+Front
+Back
+Spine
+Front
+Back
+Spine
+Standard (โชว์ห่วง)
+Concealed (ซ่อนห่วง)
+Front
+Back
+SpineSquare back ปกแข็ง
+Semi-Concealed
+Round backเย็บกี่ปกอ่อน (Limp bound )
+เย็บกี่ปกแข็ง (Hard cover book )
+เข้าห่วง Wire-O (Wire-O book )Concealed (ซ่อนห่วง)
+ปกอ่อน
+Semi-ConcealedBinding Book
+ไสกาว (Perfect bound ) Department of Engineer Sirivatana interprint public co.,ltdBinding
+15
+
+--- PAGE 16 of 62 ---
+Standard (โชว์ห่วง)
+Square back
+Round back
+Front
+Back
+Spine
+Front
+Back
+Spine
+Standard (โชว์ห่วง)
+Concealed (ซ่อนห่วง)
+Front
+Back
+Spine
+Square back
+Round back
+ปกแข็ง
+ปกอ่อน
+ปกแข็ง
+ปกอ่อนSinger SewnFlexi Bound
+Board Bookเข้าห่วง Spiral (Spiral bound book )ปกแข็งConcealed (ซ่อนห่วง)
+Semi-Concealed
+Round back
+ปกอ่อน
+Semi-ConcealedBinding Book
+Square back
+Hard Slipcase Soft Slipcase Rigid BoxOther
+Custom Leaflet Folded Brochure StickerCustom Department of Engineer Sirivatana interprint public co.,ltdBinding
+16
+
+--- PAGE 17 of 62 ---
+Component
+Department of Engineer Sirivatana interprint public co.,ltdComponent Meaning
+Cover •ปกหนังสือ อาจเป็นปกอ่อน ปกแข็ง มี /ไม่มี Flap
+Text •เนื้อในหนังสือทั้งหมด
+End Sheet•กระดาษเชื่อมระหว่าง Text กับ Cover (ปกแข็ง)
+•มี 2 แผ่น: หน้าแรก & หน้าสุดท้าย
+•เพิ่มความแข็งแรงและความสวยงาม
+Liner•กระดาษซับใน ใช้ปิดงานด้านในปก / กล่อง เพื่อ
+ความเรียบร้อย
+Board•กระดาษแข็ง
+•ใช้เป็นโครงสร้างปกแข็ง / กล่อง
+Spine•สันหนังสือ
+•ขนาดขึ้นกับความหนาเล่ม
+Spacer•ตัวคั่น / ตัวเสริมความหนา
+•ใช้กับงาน Board BookComponent Meaning
+Jacket •ปกนอกแบบสวม ถอดออกได้
+Custom •ชิ้นงานพิเศษที่ไม่ใช่มาตรฐาน เช่น การ์ด ขอ งแถม 
+แผ่นพับพิเศษ งาน die-cut แทรก
+Sticker •สติกเกอร์แปะบนหนังสือ /แพ็ก
+Wrap •กระดาษพิมพ์ที่ใช้ “หุ้ม” โครงแข็ง
+Wrap (Lid) •กระดาษหุ้ม ฝาบน ของกล่อง
+Liner (Lid) •กระดาษซับในฝาบน
+Board (Lid) •โครงกระดาษแข็งของฝาบน
+Wrap (Base) •กระดาษหุ้ม ฐานล่าง ของกล่อง
+Liner (Base) •กระดาษซับในฐานล่าง
+Board (Base) •โครงกระดาษแข็งของฐานล่าง
+Insert •ชิ้นงานที่ใส่เพิ่มเข้าไป
+17
+
+--- PAGE 18 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdFolded Brochure : แผ่นพับ
+18
+
+--- PAGE 19 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdLeaflet : ใบปลิว
+19
+
+--- PAGE 20 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdHard Cover Book : เย็บกี่ปกแข็ง
+Square back : สันตรง
+Round back : สันโค้ง
+20
+
+--- PAGE 21 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdSaddle Stitch : เย็บเข็ม
+21
+
+--- PAGE 22 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdPerfect Bound : ไสกำว
+22
+
+--- PAGE 23 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdLimp Bound : เย็บกี่ปกอ่อน
+23
+
+--- PAGE 24 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdWire -O : เข้ำห่วง Wire -O
+24
+
+--- PAGE 25 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdSpiral Bound : เข้ำห่วง Spiral
+25
+
+--- PAGE 26 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdเข้ำห่วง
+Standard : โชว์ห่วง
+•แบบมาตรฐานไม่มีสันหนังสือConcealed : ซ่อนห่วง
+•ห่วงจะถูกซ่อนอยู่ในพื้นที่ด้าน หลังสัน
+หนังสือSemi -Concealed : กึ่งซ่อนห่วง
+•ห่วงลวดร้อยผ่านบริเวณสัน หรืออยู่ บน
+ปกหลังใกล้สันหนังสือ
+26
+
+--- PAGE 27 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdFlexi Bound
+27
+
+--- PAGE 28 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdBoard Book
+28
+
+--- PAGE 29 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdSinger Sewn : เย็บจักร
+29
+
+--- PAGE 30 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdDesk Calendar : ปฏิทินตั้งโต๊ะ
+30
+
+--- PAGE 31 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdHard Slipcase
+31
+
+--- PAGE 32 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdSoft Slipcase
+32
+
+--- PAGE 33 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdRigid Box
+33
+
+--- PAGE 34 of 62 ---
+1. วางแผ่นกระดาษแข็ง (board) โดยให้ด้านใน
+หงายขึ้น2. พับปีกด้านข้างออกด้านนอก
+ 3. พับปีกขึ้นจนมุมกระดาษชนกันพอดี
+4. ติดเทปที่มุมเพื่อยึดโครงกล่ อง
+ 5.1. ทากาวบนกระดาษหุ้ม (Wrap) โดยใช้เครื่อง
+ทากาว
+5.2. หรือทากาวด้วยมือ
+Department of Engineer Sirivatana interprint public co.,ltdRigid Box
+34
+
+--- PAGE 35 of 62 ---
+8. พับและติดกาวด้านข้างทีละด้าน
+ 9. พับปีกด้านบนเข้าไปด้านใน และติดกาว ให้
+เรียบร้อย
+10. พับและติดกาวปีกด้านข้าง
+11. ติดกาวด้านที่เหลือทั้งหม ด 
+กล่องจะเสร็จสมบูรณ์
+Department of Engineer Sirivatana interprint public co.,ltd6. ตรวจสอบให้แน่ใจว่าด้านที่ทากาวหงายออกด้านนอก
+ 7. วางโครงกล่องแข็งไว้ตรงกลางกระดาษหุ้ม โดยอ้างอิงเส้นไก ด์
+ 8. พับและติดกาวด้านข้างทีละด้าน
+Rigid Box
+35
+
+--- PAGE 36 of 62 ---
+Process
+Process Meaning
+Paper กระดาษที่ใช้พิมพ์ (ชนิด / แกรม / ผิว)
+Plate เพลทส าหรับพิมพ์ Offset
+Print ขั้นตอนการพิมพ์ลงกระดาษ
+Coating เคลือบผิวกระดาษ เช่น Gloss, Matt, Soft-touch , OPP, UV
+Foil Stamp ปั๊มฟอยล์ (ทอง เงิน สีพิเศษ)
+Emboss ปั๊มนูน (ลายโผล่ขึ้น)
+Deboss ปั๊มจม (ลายบุ๋มลง)
+Die-cut ตัดกระดาษตามแบบพิมพ์ (มีบล็อกไดคัท)
+แกะ แกะชิ้นงานออกจากแผ่นไดคัท
+ดึง ดึงหลังจากพิมพ์ WEB
+Trim ตัดขอบให้ได้ขนาดสุดท้าย
+Dupilcate file cost ค่าเตรียมไฟล์ซ ้า / แยกไฟล์ใหม่ (เช่น แยกภาษา แยกเวอร์ชัน)
+Special Ink สีพิเศษ
+Insert (Book or Custom to other ) ใส่หนังสือใน Slipcase หรือ Rigid Box
+Shrink wrap หดพลาสติกแน่นทั้งเล่ม
+Chop poly wrap ห่อพลาสติกปากเปิด
+Chop poly bag ใส่ถุงพลาสติกแยกชิ้น
+Department of Engineer Sirivatana interprint public co.,ltd
+ 36
+
+--- PAGE 37 of 62 ---
+Process
+Department of Engineer Sirivatana interprint public co.,ltd
+Process Meaning
+ติดรายชื่อ + แยกรหัสไปรษณีย์ ตามความต้องการลูกค้า
+Round Corner ตัดมุมโค้ง
+H/T Band ติดคิ้ว
+อบน ้ายา Pallet อบไม้พาเลตตามมาตรฐานส่งออก
+Score กดรอยพับ เพื่อให้พับสวย ไม่แตก
+กระดาษคั่นแพ็ค กระดาษที่ใช้คั่นระหว่างเล่ม กรณีงานเข้าห่วง เพื่อไม่ให้งานกดทับเป็นรอย
+Perforate ปรุ (ฉีกได้)
+สอดยก ใส่เป็นชุด ๆ
+เก็บชุด (collate ) *ยกเว้น Board Book * เรียงหน้า (ยกเว้น Board Book )
+Drill Hole (*ไม่ใช่เข้าห่วง*) เจาะรูเฉย ๆ เช่น ส าหรับแฟ้ม
+Drill (Wire-O & Spiral) เจาะรูเพื่อใส่ห่วง
+Saddle Stitch เย็บเข็ม (กลางเล่ม)
+Perfect binding  (Cover ไม่มี Flap : ความหนาเล่ม ไม่เกิน 6 cm)ไสกาว ปกไม่มีปีก จ ากัดความหนาเล่มไม่เกิน 6 ซม
+Perfect binding  (Cover มี Flap : ความหนาเล่ม ไม่เกิน 6 cm)ไสกาว ปกมีปีก จ ากัดความหนาเล่มไม่เกิน 6 ซม
+Perfect binding : PUR ไสกาว PUR (เหนียว แข็งแรงกว่ากาวร้อน)
+ใส่ Jacket สวมปกแจ็กเก็ต 37
+
+--- PAGE 38 of 62 ---
+Process
+Department of Engineer Sirivatana interprint public co.,ltd
+Process Meaning
+Singer sewn เย็บจักรด้วยด้าย
+Sewn เย็บกี่ก่อนเข้าเล่ม
+ติด Liner ติดซับใน (ปก / กล่อง)
+Cover Drawn On  (Cover ไม่มี Flap : ความหนาเล่ม ไม่เกิน 6 cm)ปกหุ้มติดกับตัวเล่มโดยตรง ปกไม่มีปีก
+Cover Drawn On  (Cover มี Flap : ความหนาเล่ม ไม่เกิน 6 cm)ปกหุ้มติดกับตัวเล่มโดยตรง ปกมีปีก
+End Sheet ติดกระดาษรองระหว่างปกกับเนื้อใน
+เซาะร่อง (Other : Board (Hard Slipcase , Soft Slipcase , Rigid Box ))กดร่องกระดาษแข็ง เพื่อพับขึ้นรูป
+Case Making ท าปกแข็ง (กระดาษ board + หุ้ม)
+Case In น าตัวในเข้าเล่มกับปกแข็ง
+เจียนเล่มส าเร็จ ตัดขอบหลังเข้าเล่ม
+Insert ใส่แผ่นแทรก/สอดงานเข้าเล่ม
+นับ + คั่นนับ นับจ านวนพร้อมแผ่นคั่น กรณีงานเหมือนกันทุกหน้า
+Wire - O Binding เข้าเล่มห่วง Wire - O
+Spiral Bound Book เข้าเล่มห่วง Spiral
+Folded brochure: folding พับแผ่นพับ 38
+
+--- PAGE 39 of 62 ---
+Process
+Department of Engineer Sirivatana interprint public co.,ltd
+Process Meaning
+Book: folding (แบบยกพิมพ์) พับเป็นยกหนังสือ (Signature )
+Board Book: folding พับส าหรับท า board book
+Board Book: collate เก็บชุด Board Book
+Board Book : ทากาว + เข้าเล่ม ทากาวและเข้าเล่ม Board Book
+Board Book : ค่ากาว ค่ากาวในการเข้าเล่ม Board Book
+Slipcase: Hard slipcase making ขึ้นรูปปลอกแข็ง
+Slipcase: Soft Slipcase Making ขึ้นรูปปลอกอ่อน
+Slipcase: Rigid Box Making ขึ้นรูปกล่องแข็ง
+Folding : Cover with Flap พับปีกของปก
+Other Process กระบวนการพิเศษนอกเหนือจากมาตรฐาน
+Handwork Process งานท ามือ เช่น พับ ติดกาวทีละชิ้น
+Outsource ส่งงานบางขั้นตอนไปท าข้างนอก
+Materials วัสดุอื่น ๆ ที่ไม่ใช่กระดาษ เช่น ผ้า หุ้ม ปก หนังเทียม ฟองน ้า ฯลฯ
+Other กระบวนการพิเศษนอกเหนือจากมาตรฐาน
+Packing แพ็กใส่กล่อง / พาเลต 39
+
+--- PAGE 40 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdShrink wrap / Chop Poly wrap / Chop Poly Bag
+40
+
+
+--- PAGE 41 of 62 ---
+Shrink Wrap
+•ฟิล์มใสคลุมรอบเล่ม /สินค้า แล้วอบความร้อนให้ฟิล์มห ดรัด
+•ฟิล์มแนบกับสินค้าแน่นทุกด้าน
+ลักษณะเด่น
+•เรียบ ตึง สวย
+•ป้องกันฝุ่น ความชื้น การเปิดก่อนถึงลูกค้า
+•เหมาะกับหนังสือขายหน้าร้าน / export
+ข้อสังเกต
+•ต้องมีเครื่องอบ (shrink tunnel)
+•ต้นทุนสูงกว่า poly bagChop Poly Wrap
+•ฟิล์มโพลี (PP/OPP) ห่อรอบเล่ม
+•ไม่อบร้อน
+•ปิดด้วยการพับ + เทป / ซีลบางจุด
+•chop = ห่อเป็นชิ้น ๆ แยกเล่ม
+ลักษณะเด่น
+•ฟิล์มไม่ตึง จะหลวมเล็กน้อย
+•เปิดง่าย
+•ราคาประหยัดกว่า shrinkChop Poly Bag
+•ใส่หนังสือลงใน ถุงโพลีที่ตัดขนาดไ ว้แล้ว
+•ปิดปากถุงด้วยเทป / ซีล / กาว
+ลักษณะเด่น
+•ไม่ได้ห่อรอบตัวเล่ม แต่ “ใส่ถุง”
+•เหลือชายถุงด้านบน
+•ต้นทุนต ่าสุด
+Department of Engineer Sirivatana interprint public co.,ltdShrink wrap / Chop Poly wrap / Chop Poly Bag
+41
+
+--- PAGE 42 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdLayout
+No. Layout Detail Component
+1วางเป็นตัว •1 เล่ม มีแค่ 1 ชิ้น •Cover, Cover (Standard 2 pieces)
+•Jacket
+•Liner, Liner : Hard Slipcase, Liner (Base) : Rigid Box, 
+Liner (Lid) : Rigid Box
+•Wrap : Hard Slipcase, Wrap (Base) : Rigid Box, Wrap 
+(Lid) : Rigid Box, Wrap : Soft Slipcase
+•Insert : Rigid Box
+2วางเป็นหน้า •จ านวนที่ใช้วางเลย์ = ยอดงาน x No. 
+of Pages
+•จ านวนที่วางได้ใน 1 ยก = จ านวนตัว x 
+No. of Pages•Text กรณีเหมือนกันทุกหน้า
+3วางแบบยกพับ แบ่ง 2 กรณี
+•จ านวนหน้าที่ต้องการ < จ านวนหน้าที่
+ลงได้ใน 1 ยก
+•จ านวนหน้าที่ต้องการ >= จ านวนหน้าที่
+ลงได้ใน 1 ยก•Text
+•Spacer
+•End Sheet
+•Custom, Custom กรณี Folding, Custom กรณีไม่เลือก 
+Folding
+42
+
+--- PAGE 43 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdLayout
+No. Layout Detail Component
+4วางแบบ Gatefold แบ่ง 2 กรณี
+•จ านวนหน้าที่ต้องการ < จ านวนหน้าที่
+ลงได้ใน 1 ยก
+•จ านวนหน้าที่ต้องการ >= จ านวนหน้าที่
+ลงได้ใน 1 ยก•Cover กรณี Gatefold
+•End Sheet กรณี Gatefold
+•Text กรณี Gatefold
+•Custom กรณี Gatefold
+5วางแบบ Board •ถ้าเป็นชิ้นส่วน Board จะต้องใช้ ยอด
+งาน x 2 เนื่องจาก 1 เล่ม มี 2 ชิ้น•Board, Board : Hard Slipcase, Board (Base) : Rigid 
+Box, Board (Lid) : Rigid Box
+•Spine
+6วางแบบ Sticker •วางเหมือนกรณีวางเป็นตัว แต่ไม่มีถู ก
+เกรน/ผิดเกรน•Sticker
+43
+
+--- PAGE 44 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdLayout
+No. Layout Logic
+1วางเป็นตัว •ใช้จ านวนยอดงานวางเลย์ได้เลย ยกเว้น Cover (Standard 2 pieces) ใช้ ยอดงาน x 2 ในการวางเลย์
+2วางเป็นหน้า •จ านวนที่ใช้วางเลย์ = ยอดงาน x No. of Pages
+•จ านวนที่วางได้ใน 1 ยก = จ านวนตัว x No. of Pages
+3วางแบบยกพับ •กรณี จ านวนหน้าที่ต้องการ >= จ านวนหน้าที่ลงได้ใน 1 ยก
+1.ลงแบบเต็มยก ได้จ านวนกี่ยก และคิดเป็นกี่หน้า
+2.มีจ านวนเศษเหลือหรือไม่
+3.จ านวนเศษที่เหลือ หารลงตัวกับจ านวนหน้าที่ลงได้ใน 1 ยก หรือไม่
+         ลงตัว : ค านวณหาจ านวนตัวที่ลงได้จาก จ านวนหน้าที่ลงได้ใน 1 ยก/จ านวนเศษเหลือ และจ านวนยกเป็น 1
+ไม่ลงตัว : ค านวณหาจ านวนตัวที่ลงได้จาก Rounddown (จ านวนหน้าที่ลงได้ใน 1 ยก/จ านวนเศษเหลือ ,0) หาจ านวน
+หน้าที่เสียเศษ และจ านวนยกเป็น 1
+•กรณี จ านวนหน้าที่ต้องการ < จ านวนหน้าที่ลงได้ใน 1 ยก
+1.จ านวนหน้าที่ลงได้ใน 1 ยก/จ านวนหน้าที่ต้องการ หารลงตัวหรือไม่
+        ลงตัว : ค านวณหาจ านวนตัวที่ลงได้จาก จ านวนหน้าที่ลงได้ใน 1 ยก/จ านวนหน้าที่ต้องการ และจ านวนยกเป็ น 1
+        ไม่ลงตัว : ค านวณหาจ านวนตัวที่ลงได้จาก Rounddown (จ านวนหน้าที่ลงได้ใน 1 ยก/จ านวนหน้าที่ต้องการ ,0) หา
+จ านวนหน้าที่เสียเศษ และจ านวนยกเป็น 1
+44
+
+--- PAGE 45 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdLayout
+No. Layout Logic
+4วางแบบ Gatefold •กรณี จ านวนหน้าที่ต้องการ >= จ านวนหน้าที่ลงได้ใน 1 ยก
+1.ลงแบบเต็มยก ได้จ านวนกี่ยก และคิดเป็นกี่หน้า
+2.มีจ านวนเศษเหลือหรือไม่
+3.จ านวนเศษที่เหลือ หารลงตัวกับจ านวนหน้าที่ลงได้ใน 1 ยก หรือไม่
+         ลงตัว : ค านวณหาจ านวนตัวที่ลงได้จาก จ านวนหน้าที่ลงได้ใน 1 ยก/จ านวนเศษเหลือ และจ านวนยกเป็น 1
+ไม่ลงตัว : ค านวณหาจ านวนตัวที่ลงได้จาก Rounddown (จ านวนหน้าที่ลงได้ใน 1 ยก/จ านวนเศษเหลือ ,0) หาจ านวน
+หน้าที่เสียเศษ และจ านวนยกเป็น 1
+•กรณี จ านวนหน้าที่ต้องการ < จ านวนหน้าที่ลงได้ใน 1 ยก
+1.จ านวนหน้าที่ลงได้ใน 1 ยก/จ านวนหน้าที่ต้องการ หารลงตัวหรือไม่
+        ลงตัว : ค านวณหาจ านวนตัวที่ลงได้จาก จ านวนหน้าที่ลงได้ใน 1 ยก/จ านวนหน้าที่ต้องการ และจ านวนยกเป็ น 1
+        ไม่ลงตัว : ค านวณหาจ านวนตัวที่ลงได้จาก Rounddown (จ านวนหน้าที่ลงได้ใน 1 ยก/จ านวนหน้าที่ต้องการ ,0) หา
+จ านวนหน้าที่เสียเศษ และจ านวนยกเป็น 1
+5วางแบบ Board •ใช้จ านวนยอดงานวางเลย์ได้เลย ยกเว้น Board (Book) ใช้ ยอดงาน x 2 ในการวางเลย์
+6วางแบบ Sticker •วางเหมือนกรณีวางเป็นตัว แต่ไม่มีถูกเกรน /ผิดเกรน
+•เลือกวางแบบที่วางได้จ านวนตัวมากที่สุด
+45
+
+--- PAGE 46 of 62 ---
+Layout (วำงเป็นตัว )
+Component: Cover 1 ชิ้น มี 4 หน้า / 1 เล่ม มี 1 ชิ้น วางเลย์แบบเป็นตัวตามปกติ จะได้
+•1 กรอบ ลงได้ 8 ตัว คิดเป็น 8 x 2 = 16 หน้า
+•1 ยก ลงได้ 8 ตัว คิดเป็น 8 x 2 x 2 = 32 หน้า
+•จ านวนยก 1 ยก เนื่องจากได้ครบทุกแบบที่ต้องการภายในยกเดียว
+Department of Engineer Sirivatana interprint public co.,ltd 46
+•Ups = 8
+•Sig = 1
+
+--- PAGE 47 of 62 ---
+Layout (วำงเป็นหน้ำ )
+Component: Text 1 ชิ้น มี 4 หน้า / 1 เล่ม มี 256 หน้า เหมือนกันทุกหน้า วางเลย์เป็นหน้าจะได้
+•ยอดงานที่ใช้วางเลย์ 256 x 2,500 = 640,000 หน้า
+•1 กรอบ ลงได้ 8 ตัว คิดเป็น 8 x 2 = 16 หน้า
+•1 ยก ลงได้ 8 ตัว คิดเป็น 8 x 2 x 2 = 32 หน้า
+•จ านวนยก 1 ยก เนื่องจากได้ครบทุกแบบที่ต้องการภายในยกเดียว
+Department of Engineer Sirivatana interprint public co.,ltd 47QTY = 2,500
+No. of Pages = 256
+•Ups = 8 x 4 = 32
+•Sig = 1
+
+--- PAGE 48 of 62 ---
+Layout (วำงแบบยกพับ )
+Department of Engineer Sirivatana interprint public co.,ltd 48
+
+--- PAGE 49 of 62 ---
+Layout (วำงแบบยกพับ )
+Department of Engineer Sirivatana interprint public co.,ltd 49No. of Pages = 196
+33-36
+37-4041-44
+45-4849-52
+53-5657-60
+61-641-4
+5-89-12
+13-1617-20
+21-2425-28
+29-32
+65-68
+69-7273-76
+77-8081-84
+85-8889-92
+93-9697-100
+101-104105-108
+109-112113-116
+117-120121-124
+125-128
+129-132
+133-136137-140
+141-144145-148
+149-152153-156
+157-160161-164
+165-168169-172
+173-176177-180
+181-184185-188
+189-192เศษยก เต็มยก
+•No. of Pages = 196
+•วางเต็มยกได้ 8 x 4 x 6 = 192 หน้า
+•เหลือเศษ 196 –192 = 4 หน้า
+•เศษยก 1 ยก ลงได้ 32 หน้า จะวางได้ 32/4 = 8 ตัว
+วางได้เต็มพอดี ไม่เสียเศษ
+193-196
+193-196193-196
+193-196193-196
+193-196193-196
+193-196
+
+--- PAGE 50 of 62 ---
+Layout (วำงแบบยกพับ )
+Component: Text 1 ชิ้น มี 4 หน้า / 1 เล่ม มี 196 หน้า วางเลย์แบบยกพับจะได้
+•1 กรอบ ลงได้ 8 คิดเป็น 8 x 2 = 16 หน้า
+•1 ยก ลงได้ 8 คิดเป็น 8 x 2 x 2 = 32
+•จ านวนยก (เต็มยก ) = 196/32 = 6 ยก คิดเป็น 32 x 6 = 192 หน้า และจะเหลืออีก 196 – (32 x 6) = 4 หน้า
+•จ านวนเศษยก = จ านวน 4 หน้าที่เหลือจะลงได้ 32/4 = 8 ตัว ใน 1 ยก ไม่เสียเศษ
+•Ups ของเต็มยก = 1 แต่ Ups ของเศษยก = 8 เนื่องจาก
+•เต็มยก ใน 1 ยก แต่ละรูปแบบวางได้แค่ 1 ชิ้น ไม่มีชิ้นที่ซ ้ากัน
+•เศษยก ใน 1 ยก วางรูปแบบเดียวกัน ได้ทั้งหมด 8 ชิ้น
+Department of Engineer Sirivatana interprint public co.,ltd 50
+
+--- PAGE 51 of 62 ---
+Layout (วำงแบบ Gatefold)
+Department of Engineer Sirivatana interprint public co.,ltd 51
+
+--- PAGE 52 of 62 ---
+Layout (วำงแบบ Gatefold)
+Component: Text แบบ Gatefold 1 ชิ้น มี 8 หน้า / 1 เล่ม มี 2 ชิ้น = 8 x 2 = 16 หน้า วางเลย์
+แบบ Gatefold จะได้
+•1 กรอบ ลงได้ 4 ชิ้น คิดเป็น 4 x 4 = 16 หน้า
+•1 ยก ลงได้ 4 ชิ้น คิดเป็น 4 x 4 x 2 = 32 หน้า
+•มีทั้งหมด 2 sheets จะวางได้แบบละ 2 ชิ้น ใน 1 ยก (Ups = 2)
+•จ านวนยก 1 ยก เนื่องจากได้ครบทุกแบบที่ต้องการภายในยกเดียว
+Department of Engineer Sirivatana interprint public co.,ltd 52No. of Sheets = 2
+No. of Pages/Sheet = 8
+No. of Pages = 2 x 8 = 16
+
+
+--- PAGE 53 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltd
+Estimate Popup
+53
+
+--- PAGE 54 of 62 ---
+•Paper
+•Plate
+•Print
+•Digital Proof กรณีงานใหม่
+•Coating
+•Foil Stamp
+•Emboss
+•Deboss
+•Acetate 
+•Block Die -cut : กรณีเลือก Die-cut และ Acetate
+•Die-cut : Text, Board กรณีเลือก Die-cut และ Acetate
+•Case Making : หุ้มเครื่อง
+•Trim : Cover, Spine, Spine Liner, Sell Sheet และ Board กรณีเลือก Trim
+•Dummy making first กรณีงานใหม่
+•Digital making 2 sets กรณีงานใหม่
+•Insert : Sell Sheet•Handwork : โรงงานลาว
+•Strip / sort
+•Assembly
+•Case Making : หุ้มมือ
+•Case In
+•QC 100%
+•Packing
+•Shrink Wrap : Sell Sheet -> มีค่าฟิล์มแยก
+•Chop Polybag : Sell Sheet  -> มีค่าถุงแยก
+•Packing
+•Delivery
+•Production Estimate
+•Repack Pallet
+•Delivery / Logistic cost
+•Courier
+•Exchange rateBookProcess
+54
+
+--- PAGE 55 of 62 ---
+•Paper
+•Plate
+•Print
+•Coating
+•Foil Stamp
+•Emboss
+•Deboss
+•Acetate
+•Block Die -cut : กรณีเลือก Die-cut และ Acetate
+•Die-cut : Wrap , Board กรณีเลือก Die-cut และ Acetate
+•Trim : Liner และ Board กรณีเลือก Trim
+•ประกบ Liner + Board
+•เซาะร่อง
+•Slipcase Making
+•InsertSlipcase Sticker
+•Paper
+•Plate
+•Print
+•Coating
+•Foil Stamp
+•Emboss
+•Deboss
+•Acetate
+•Block Die -cut :  กรณีเลือก Die-cut และ Acetate
+•Die-cut : กรณีเลือก Die-cut และ Acetate
+•Affix (ค่าติด)Process
+55
+
+--- PAGE 56 of 62 ---
+•Paper
+•Plate
+•Print
+•Coating
+•Foil Stamp
+•Emboss
+•Deboss
+•Acetate
+•Block Die -cut :  กรณีเลือก 
+Acetate
+•Die-cut : กรณีเลือก Acetate
+•Trim
+•InsertPostcard
+•Paper
+•Plate
+•Print
+•Coating
+•Foil Stamp
+•Emboss
+•Deboss
+•Acetate
+•Block Die -cut : กรณีเลือก 
+Die-cut และ Acetate
+•Die-cut กรณีเลือก Die-cut 
+และ Acetate
+•InsertPrice Slip
+•Paper
+•Plate
+•Print
+•Coating
+•Foil Stamp
+•Emboss
+•Deboss
+•Acetate
+•Block Die -cut :  กรณีเลือก 
+Acetate
+•Die-cut : กรณีเลือก Acetate
+•Trim
+•FoldPoster
+•Paper
+•Plate
+•Print
+•Coating
+•Foil Stamp
+•Emboss
+•Deboss
+•Acetate
+•Block Die -cut : กรณีเลือก 
+Die-cut และ Acetate
+•Die-cut : กรณีเลือก Die-cut 
+และ Acetate
+•Trim : กรณีเลือก Trim
+•Insert : กรณีเลือก Insert
+•Fold : กรณีเลือก FoldOtherProcess
+56
+
+--- PAGE 57 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltd
+Layout
+57
+
+--- PAGE 58 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltd
+sig pop fold glue
+1 52 107 46
+2 25 82 67
+3 29 96 55
+4 17 72 33
+5 22 76 86
+6 37 85 61
+7 32 94 33
+8 14 28 53
+9 20 67 61
+248 707 495Layout
+58
+
+--- PAGE 59 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdComponent
+Component Meaning
+Cover•กระดาษหรือวัสดุที่หุ้มด้านนอก board
+•อาจพิมพ์ลาย เคลือบ ฟอยล์ ปั๊มลาย ฯลฯ
+Text•หน้ากระดาษเนื้อเรื่อง
+•อาจเป็นฐานของ pop-up หรือหน้าปกติ
+Liner Spine•กระดาษรองหุ้มบริเวณสัน
+•ช่วยให้สันเรียบ ไม่แตก และเพิ่มความแข็งแรง
+Liner•กระดาษซับใน ใช้ปิดงานด้านในปก / กล่อง เพื่อ
+ความเรียบร้อย
+Board•กระดาษแข็ง
+•ใช้ท าปกแข็ง หรือชิ้นโครงสร้างเสริมความแข็ งแรง
+Spine•สันหนังสือ
+•ขนาดขึ้นกับความหนาเล่ม
+Sell Sheet•แผ่นโฆษณา / แผ่นแนะน าสินค้า
+•มักสอดในเล่ม หรือแถมมากับหนังสือComponent Meaning
+Wrap •กระดาษพิมพ์ที่ใช้ “หุ้ม” โครงแข็ง
+Liner•กระดาษซับใน ใช้ปิดงานด้านในปก / กล่อง เพื่อ
+ความเรียบร้อย
+Board•กระดาษแข็ง
+•ใช้เป็นโครงสร้างปกแข็ง / กล่อง
+Sticker •สติกเกอร์แปะบนหนังสือ
+Post card•การ์ด
+•พิมพ์เดี่ยว ไม่เข้าเล่ม
+Poster •โปสเตอร์
+Price Slip •มักสอดหรือแปะด้านหลัง
+Acetate •แผ่นพลาสติกใส
+•ใช้ท าหน้าต่างหรือเอฟเฟกต์พิเศษใน pop-up
+59
+
+--- PAGE 60 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdOther
+Topic Meaning
+Spread•1 spread = หน้าเปิด 1 ครั้ง (ซ้าย + ขวา)
+•pop จะถูกออกแบบตาม spread
+•เช่น 5 spreads = เปิดหนังสือได้ 5 ครั้ง
+No. of Pages•จ านวนหน้าทั้งหมด
+•1 spread = 4 pages
+การหุ้มปก•กระบวนการเอากระดาษ cover มาหุ้ม board
+•หุ้มเครื่อง หุ้มมือ
+จ านวนจุดติดกาว•จ านวนต าแหน่งที่ต้องทากาว
+•ยิ่งมาก = งานมือสูง = ต้นทุนสูง
+Gutter•ร่องกลางเล่ม / ระยะด้านในใกล้สันหนังสือ
+•แนวพับหลักของ pop-up
+•pop-up ที่ซับซ้อน → ต้องการ gutter กว้างขึ้นTopic Meaning
+จ านวนเส้นพับ •เส้นพับของชิ้น pop-up
+•มีผลต่อการขึ้นรูป ความทน และความยากในการ
+ประกอบ
+จ านวน Pop•จ านวนชิ้น pop-up ทั้งเล่ม
+•ใช้ประเมิน ความยาก + ต้นทุนแรงงาน
+Book Block•เนื้อในทั้งหมดของเล่ม
+•รวมทุกหน้า + pop-up + การเย็บ/การติดกาว
+ภายใน
+Concertina •การเข้าเล่มของ pop up แบบทั่วไป ไม่เย็บ ไม่ไ ส
+กาว ปกมักติดที่แผ่นแรกและแผ่นสุดท้าย
+60
+
+--- PAGE 61 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdComponent
+Spine
+Cover
+BoardSpread
+Sell Sheet
+61
+
+--- PAGE 62 of 62 ---
+Department of Engineer Sirivatana interprint public co.,ltdComponent
+pop
+Book Block
+Gutter
+62

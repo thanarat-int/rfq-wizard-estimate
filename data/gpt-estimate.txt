@@ -1,0 +1,1589 @@
+คุณเป็นผู้เชี่ยวชาญด้าน Estimate งานหนังสือ และ Packaging ระดับโลก
+และเป็นอาจารย์ที่มีลูกศิษย์ มากมาย
+อยากให้คุณอธิบาย งานหนังสือ และ Packaging จากไฟล์ดังกล่าว ให้คนที่โง่ อ่านรู้เรื่อง
+
+Thought for 33s
+สรุป (อ่านเร็ว 3–5 บรรทัด)
+ไฟล์สเปกนี้คือ “หนังสือเด็กแบบกระดาษแข็ง” (Board book) ขนาดประมาณ 6.25" × 7.5" แนวตั้ง มีเนื้อใน 12 หรือ 13 “หน้าคู่” + ปก ใช้กระดาษบอร์ดหนา 350gsm (เคลือบหน้าเดียว C1S) พิมพ์สี 4 สีด้านเดียว แล้วเคลือบเงา (UV หรือ Aqueous) เข้าเล่มแบบบอร์ดบุ๊ค มุมโค้ง 2 มุม แพ็กลงกล่องส่งออกและวางพาเลต ส่งมอบแบบ FOB ที่ท่าเรือ Hong Kong หรือ Yantian และมีงานปั๊มฟอยล์สีเงิน
+
+อธิบายทีละบรรทัดแบบ “คนไม่เคยทำก็เข้าใจ”
+1) ขนาด (Size)
+6-1/4” x 7-1/2” (Portrait)
+= กว้าง 6.25 นิ้ว สูง 7.5 นิ้ว หนังสือแนวตั้ง
+
+2) จำนวนหน้า (Extent)
+12 or 13 text spreads + cover
+คำว่า spread = หน้าคู่ (เปิดหนังสือ 1 ครั้ง เห็นซ้าย+ขวา)
+ดังนั้น “text spreads” คือหน้าคู่ของเนื้อหา 12 หรือ 13 หน้าคู่
+
+ถ้า 12 spreads → เทียบง่ายๆ = 24 หน้าเดี่ยว (ซ้าย 12 + ขวา 12)
+
+ถ้า 13 spreads → เทียบง่ายๆ = 26 หน้าเดี่ยว
+และยังมี ปก แยกต่างหาก (ปกอาจคิดเป็นอีก spread หรือคิดเป็นชิ้นงานปก—ขึ้นกับโรงพิมพ์/แบบไดคัท)
+
+3) วัสดุ (Text/Cover)
+350gsm C1S board (Apollopape FSC)
+
+350gsm = กระดาษ/บอร์ด “หนา”
+
+C1S = เคลือบเรียบ/มัน “แค่ด้านเดียว” (อีกด้านไม่เคลือบ)
+
+FSC = กระดาษจากแหล่งไม้ที่มีมาตรฐานความยั่งยืน
+
+“Apollopape” คือชื่อซัพพลายเออร์/เกรดกระดาษที่ระบุไว้
+
+4) งานพิมพ์ + เคลือบ (Finishing)
+1/S gloss UV or aqueous varnish (4c x 0c)
+แปลแบบบ้านๆ:
+
+4c x 0c = พิมพ์ “4 สี” (CMYK) ด้านเดียว อีกด้านไม่พิมพ์
+
+1/S gloss = เคลือบเงา “ด้านเดียว”
+
+เลือกเคลือบได้ 2 แบบ
+
+Gloss UV = เงาจัด แข็ง ทนรอยขีดข่วนกว่า แต่ต้นทุน/เวลาอาจสูงกว่า
+
+Aqueous varnish (water-based) = เงานุ่มกว่า กลิ่นน้อย มักเป็นมิตรกับงานเด็กกว่า แต่กันรอยอาจด้อยกว่า UV
+
+5) ไฟล์ที่ลูกค้าต้องส่ง (Material)
+Complete PDF files + colour proofs supplied ready for CTP printing
+
+ลูกค้าส่ง ไฟล์ PDF สำเร็จรูป (พร้อมพิมพ์)
+
+มี ปรู๊ฟสี (colour proof) ให้เทียบสี
+
+CTP = โรงพิมพ์เอาไฟล์ไปทำเพลทพิมพ์ได้เลย (หมายถึงโรงพิมพ์ไม่รับแก้/จัดหน้าเพิ่มมากนัก)
+
+6) เข้าเล่ม (Binding)
+Board book binding with 2 rounded corners
+
+Board book = หน้าหนามาก คล้าย “แผ่นบอร์ด” (เหมาะกับเด็กเล็ก)
+
+2 rounded corners = มุมโค้ง 2 มุม (ปกติระบุให้ชัดว่า “มุมไหน” เช่น มุมขวาบน+ขวาล่าง หรือทุกมุม—สเปกนี้ระบุแค่ 2 มุม)
+
+7) แพ็กกิ้ง (Packing)
+Into export cartons and palletised
+
+ใส่ กล่องส่งออก (export cartons)
+
+แล้ว เรียงขึ้นพาเลต (palletised) เพื่อสะดวกต่อการยกด้วยโฟล์คลิฟท์/ขนส่งเรือ
+
+8) เงื่อนไขส่งมอบ (Shipping terms)
+FOB Hong Kong / Yantian
+
+FOB = โรงพิมพ์/ผู้ขายส่งของขึ้นเรือที่ท่าเรือที่ระบุให้เรียบร้อย
+
+หลังจากนั้น ค่าระวางเรือ/ประกัน/ปลายทาง มักเป็นหน้าที่ผู้ซื้อ
+
+ระบุท่าได้ 2 ทางเลือก: Hong Kong หรือ Yantian
+
+9) งานพิเศษ (Special process)
+Foil stamp: silver
+
+ปั๊มฟอยล์สีเงิน (มักทำบนปก) ต้องมี “บล็อกปั๊ม” และกำหนดตำแหน่ง/พื้นที่ชัดเจน
+
+Checklist เอาไปกรอกฟอร์ม Estimate/ใบเสนอราคาได้เลย
+Product: Board Book (เด็ก)
+
+Size: 6.25" × 7.5" Portrait
+
+Pagination: 12 หรือ 13 text spreads + cover (ระบุให้ชัดว่าเท่ากับกี่หน้า/รวมปกอย่างไร)
+
+Stock: 350gsm C1S board (FSC, Apollopape) — ใช้กับ text+cover
+
+Printing: 4c x 0c (พิมพ์ด้านเดียว)
+
+Coating: 1-side gloss (เลือก UV หรือ Aqueous)
+
+Binding: Board book binding + rounded corners 2 มุม
+
+Foil: Silver foil stamping (ระบุพื้นที่/ตำแหน่ง/ไฟล์เลเยอร์ฟอยล์)
+
+Packing: Export cartons + Palletised (ระบุจำนวนเล่ม/กล่อง, น้ำหนัก/กล่องถ้ามี)
+
+Incoterm: FOB Hong Kong หรือ FOB Yantian
+
+Files: Print-ready PDF + colour proof + ready for CTP
+
+ตัวเลือกที่พบบ่อย (2–3 ทางเลือก) พร้อมข้อดี-ข้อเสีย/เวลา/ความเสี่ยง
+ตัวเลือก A: เคลือบ Gloss UV
+ข้อดี: เงาสวยมาก ทนรอย/กันเปื้อนดีกว่า เหมาะกับหนังสือเด็กที่โดนจับบ่อย
+
+ข้อเสีย: ต้นทุนมักสูงกว่า และถ้างานออกแบบมีพื้นที่ทึบมาก อาจเห็นรอย/ส้มผิว (ขึ้นกับโรงพิมพ์)
+
+เวลา: โดยทั่วไป อาจเพิ่มขั้นตอน เทียบกับเคลือบธรรมดา
+
+ความเสี่ยง: ถ้าคุมกระบวนการไม่ดี อาจเกิดปัญหา “เงาไม่สม่ำเสมอ/ติดสกปรก”
+
+ตัวเลือก B: เคลือบ Aqueous varnish (water-based)
+ข้อดี: กลิ่นน้อย งานดูนุ่มนวล มักเหมาะกับงานเด็ก/งานส่งออกบางตลาด
+
+ข้อเสีย: กันรอย/กันเปื้อนโดยรวมมัก น้อยกว่า UV
+
+เวลา: มัก ทำงานง่ายกว่า
+
+ความเสี่ยง: ถ้าขนส่ง/เสียดสีมาก อาจเห็นรอยถลอกง่ายกว่า
+
+ตัวเลือก C: Foil stamp ทำ/ไม่ทำ (หรือทำเฉพาะปก)
+ทำฟอยล์
+
+ข้อดี: ดูพรีเมียม ดึงดูดบนชั้นวาง
+
+ข้อเสีย: เพิ่มต้นทุน (บล็อก + ค่าเครื่อง) และต้องคุม register/ตำแหน่ง
+
+ความเสี่ยง: พื้นที่เส้นเล็ก/ตัวอักษรเล็กมาก อาจไม่คมตามที่หวัง
+
+ไม่ทำฟอยล์
+
+ข้อดี: ลดต้นทุน/ลดความเสี่ยง QC
+
+ข้อเสีย: ลุคอาจไม่พรีเมียมเท่าฟอยล์
+
+คำถามที่ต้องตอบเพิ่ม (ขอไม่เกิน 3 ข้อ เพื่อสรุปให้ “เป๊ะ”)
+จำนวนพิมพ์ กี่เล่ม (Qty)?
+
+สรุป final ว่า 12 หรือ 13 text spreads และ “ปก” นับเป็นกี่หน้า/มีปกหน้า-ปกหลัง-สันหรือไม่?
+
+มุมโค้ง 2 มุม คือมุมไหน และ ฟอยล์เงิน อยู่ตำแหน่งไหน/พื้นที่ประมาณเท่าไหร่ (มีไฟล์เลเยอร์ฟอยล์ไหม)?
+
+
+คุณได้เอาข้อมูลจากไฟล์มาตอบผมมั้ยครับ
+
+Thought for 1m 12s
+สรุป (3–5 บรรทัด)
+คำตอบก่อนหน้าที่ผมอธิบาย “สเปก Board book / FOB / Foil stamp” ไม่ได้ดึงจาก PDF 2 ไฟล์นี้โดยตรง แต่ดึงจาก “ข้อความสเปกงานหนังสือ” ที่คุณพิมพ์ส่งมาในแชทก่อนหน้านั้น
+ตอนนี้ผม เปิดอ่านไฟล์แล้ว และยืนยันได้ว่าไฟล์ที่แนบมาเป็นเอกสาร “กระบวนการ/วิธีคิด Estimate” สำหรับ Packaging และ Book (เช่น ความหมาย Spread/No. of Pages, Flow งาน, สูตรคิด Foil/Coating ฯลฯ) 
+Estimate All
+
+ 
+Estimate Packaging วิธีคิด1
+
+
+หลักฐานว่า “ตอนนี้” ผมเอาจากไฟล์จริง (ตัวอย่างอ้างอิงจากไฟล์)
+ในไฟล์ Estimate All.pdf มีนิยามเรื่องหน้า เช่น “1 spread = 4 pages” และหัวข้อ “No. of Pages” ชัดเจน 
+Estimate All
+
+
+ในไฟล์ Estimate Packaging วิธีคิด1.pdf มี Packaging Production Flow Chart และลิสต์ขั้นตอน Materials → Print → After Press → Packing พร้อมรายการงานเสริม (Coating/Foil/Emboss/Deboss) 
+Estimate Packaging วิธีคิด1
+
+
+ในไฟล์ Estimate Packaging วิธีคิด1.pdf มีรายละเอียด “การคิดราคา Foil Stamp” เช่น ค่า block/ค่ายิงฟิล์ม/ค่าแรง และเงื่อนไข min cost 
+Estimate Packaging วิธีคิด1
+
+
+ตัวเลือกให้ผม “อธิบายจากไฟล์” แบบคนไม่รู้เรื่องก็เข้าใจ (เลือกได้ 1 แบบ)
+สรุปผู้บริหาร + ภาพรวมการทำงาน (อ่านจบใน 1–2 หน้า)
+
+ข้อดี: เข้าใจภาพรวมเร็ว เอาไปสอนทีมได้
+
+ข้อเสีย: ไม่ลงสูตรละเอียดทุกจุด
+
+สอนแบบจับมือทำ (ไล่ทีละหัวข้อ + ยกตัวอย่างโจทย์จริง 1 งาน)
+
+ข้อดี: คนใหม่ทำตามได้จริง เหมาะทำ SOP
+
+ข้อเสีย: ยาวกว่า และต้องรู้ “ตัวอย่างสเปกงาน” 1 งานเพื่อสาธิต
+
+ขอข้อมูลเพิ่มไม่เกิน 3 ข้อ (เพื่ออธิบายให้ “ตรงสิ่งที่คุณต้องการ”)
+คุณอยากให้โฟกัส Book, Packaging, หรือ ทั้งคู่?
+
+กลุ่มคนอ่านคือ AE/Estimate/Production/ผู้บริหาร? (จะได้เลือกภาษาง่าย/ลึกให้พอดี)
+
+มี “สเปกงานตัวอย่าง” 1 งานให้สาธิตไหม (เช่น ขนาดกล่อง/จำนวน/กระดาษ/พิมพ์กี่สี/มีเคลือบหรือฟอยล์)?
+
+
+Sources
+
+1. ทั้งคู่
+2. Estimate และ AE
+3. ตัวอย่างที่ 1 
+CUSTOMER/BRAND ZURU
+PROJECT NAME Whipped Mousse
+NET WEIGHT สินค้า (g) 85g
+CAN SIZE 209.5/208x107 EOE
+รูปแบบการแพ็คและจำนวนสินค้า / Case   12 Cans/Tray + Sleeve box
+บรรจุภัณฑ์ที่ส่งทดสอบ Tray
+Dimension Score line
+W 212
+L 271
+H 30
+MATERIAL E-Flute
+MATERIAL GRADE DP250/CA105/CA125 - E
+COLOR Q'TY -
+COATING N/A 
+
+ตัวอย่างที่ 2 Date		: 26-Jan-2026
+Size		: 6-1/4” x 7.1/2” (Portrait)
+Extent		: 12 or 13 text spreads + cover
+
+
+Text/Cover	: 350gsm C1S board (Apollopape FSC) + 1/S gloss UV or aqueous varnish     (4c x 0c)
+
+
+Material 	: Complete PDF files + colour proofs supplied ready for CTP printing
+
+ 
+Binding		: Board book binding with 2 rounded corners.
+
+Packing          	: Into export cartons and palletised 
+
+Shipping terms	: FOB Hong Kong / Yantian
+
+Thought for 1m 20s
+สรุป (3–5 บรรทัด)
+ผมจะอธิบาย “งานหนังสือ + งานแพ็กเกจจิ้ง” แบบที่ Estimate/AE มือใหม่ อ่านแล้วทำตามได้ โดยยึดแนวคิดจากไฟล์ที่คุณให้ (Flow งาน, คำศัพท์, วิธีคิด Layout/Ups/Waste, และ Add-ons เช่น Coating/Foil) 
+Estimate Packaging วิธีคิด1
+
+ 
+Estimate All
+
+
+แล้วผมจะ “แปลงสเปกตัวอย่างที่ 1 และ 2” ให้เป็น สิ่งที่ต้องกรอก/ต้องถามลูกค้า เพื่อออก RFQ/ใบเสนอราคาได้ทันที
+
+จุดสำคัญ: ในเอกสารนี้ 1 spread = 4 pages (เป็นนิยามเพื่อการคิดงาน/วางเลย์ในระบบ) 
+Estimate All
+
+
+1) ภาพรวมงาน (AE ↔ Estimate) ตามไฟล์
+Flow แบบง่ายมาก
+
+AE คุยงานกับลูกค้า → เปิด RFQ → ส่งสเปกให้ทีม Estimate 
+Estimate Packaging วิธีคิด1
+
+
+Estimate คิดราคา → ส่งข้อมูลกลับ AE 
+Estimate Packaging วิธีคิด1
+
+
+AE สร้าง Quotation ไปขายงาน → ถ้าขายได้ค่อยเปิด Job ผลิต 
+Estimate Packaging วิธีคิด1
+
+
+Packaging งานหนึ่งชิ้น “แตกเป็นต้นทุน” 4 ก้อน
+
+Materials (Paper, Plate)
+
+Print (Press)
+
+After Press (Die-cut, Assembly/ติดกาว, แกะ, Inspection)
+
+Packing (Paper band/Kraft wrap/Carton/Pallet) + Add-ons (Coating/Foil/Emboss/Deboss) 
+Estimate Packaging วิธีคิด1
+
+
+2) คำศัพท์ที่ AE/Estimate ต้องเข้าใจ (แบบคนไม่เคยทำ)
+A) Layout Size / Paper Size (ใช้กับ Packaging เป็นหลัก)
+Layout Size = “ขนาดชิ้นงานตอนแบะออก (open size) รวม bleed” 
+Estimate Packaging วิธีคิด1
+
+
+Paper Size = ขนาดกระดาษที่ต้องใช้จริง ต้องบวกเผื่อขอบ เช่น
+
+paper edge 4 mm, color bar 8 mm, gripper 12 mm 
+Estimate Packaging วิธีคิด1
+
+
+B) Ups / Sig / Waste (ตัวแปรพื้นฐานงาน Estimate)
+Ups = 1 แผ่นลงชิ้นงานได้กี่ชิ้น
+
+Sig = จำนวน “ยก” (ในเอกสารระบุว่า Packaging = 1 เสมอ) 
+Estimate All
+
+
+Waste = เผื่อเสีย (เพื่อคุมความเสี่ยงตอนพิมพ์/ไดคัท/ประกอบ)
+
+C) Spread / Pages (ใช้กับงานหนังสือ)
+เอกสารนี้กำหนดว่า No. of Pages และ 1 spread = 4 pages 
+Estimate All
+
+
+หมายเหตุเพื่อไม่งง: โลกงานออกแบบมักมอง spread = หน้าคู่ (2 หน้า) แต่ “ไฟล์ Estimate นี้” นิยามแบบหนึ่งเพื่อการคิดวางเลย์/งานผลิต ดังนั้นให้ยึดตามนิยามในระบบเวลาคุยกับทีม Estimate
+
+3) แปลง “ตัวอย่างที่ 1 (Packaging Tray)” ให้เป็นแบบกรอก RFQ/MI2
+สเปกที่คุณให้มา (สรุปเป็นภาษาง่าย)
+ลูกค้า: ZURU / Project: Whipped Mousse
+
+12 Cans/Tray + Sleeve box แต่ ชิ้นที่ส่งทดสอบคือ Tray
+
+Tray dimension (score line): W 212, L 271, H 30
+
+วัสดุ: E-Flute, grade: DP250/CA105/CA125 - E
+
+สี: ไม่ระบุ, Coating: N/A
+
+ในมุมระบบ/ไฟล์: งานนี้เข้าหมวด “Tray”
+ประเภทกล่อง/ถาดที่ใกล้สุดในรายการ Template คือ Simple Tray 
+Estimate All
+
+ (และในไฟล์ Packaging ก็มีคำว่า Simple Tray อยู่ในตารางชนิดงาน) 
+Estimate Packaging วิธีคิด1
+
+
+Checklist ที่ AE ต้องถามเพิ่ม (ไม่ถาม = Estimate ตีราคาเสี่ยง)
+Qty ที่จะสั่งผลิตจริง (จำนวน Tray) — ไม่มี Qty จะคำนวณ Paper/Print/After press ไม่ได้
+
+Tray มีพิมพ์หรือไม่? พิมพ์กี่สี/ด้านเดียวหรือสองด้าน? (ตอนนี้ COLOR Q’TY เป็น “-”)
+
+มีไดคัทเดิมอยู่แล้ว หรือทำมีดไดคัทใหม่? (ต้นทุน After Press ต่างกันมาก)
+
+AE ควรส่งให้ Estimate อย่างน้อยตาม “ก้อนต้นทุน 4 ก้อน”
+Materials: E-Flute grade ที่ระบุ + ขนาด open size (ถ้ามี dieline จะดีที่สุด)
+
+Print: สี/ด้าน/หมึกพิเศษ (ถ้ามี)
+
+After Press: Die-cut + Assembly (ถาดติดกาวกี่จุด) + Inspection
+
+Packing: จะใช้แบบไหนในโปรแกรม (เช่น Carton/Pallet) ซึ่งไฟล์กำหนดรูปแบบไว้เป็น P/K/C/Pallet 
+Estimate Packaging วิธีคิด1
+
+
+4) แปลง “ตัวอย่างที่ 2 (Book: Board book)” ให้เป็นแบบกรอก RFQ
+สิ่งที่ “ชัดแล้ว” จากสเปก
+Size: 6-1/4” x 7-1/2” Portrait
+
+Extent: 12 หรือ 13 text spreads + cover
+
+Paper: 350gsm C1S board (FSC)
+
+Print: 4c x 0c
+
+Coating: 1 side gloss UV หรือ aqueous varnish
+
+Binding: Board book + มุมโค้ง 2 มุม
+
+Packing: export cartons + palletised
+
+Shipping: FOB Hong Kong/Yantian
+
+สิ่งที่ต้องระวังตามไฟล์ (เกี่ยวกับการวางเลย์/จำนวน)
+ในไฟล์มีข้อกำหนดว่า งาน Board (Book) ใช้ยอดงาน x 2 ในการวางเลย์ 
+Estimate All
+
+
+และนิยาม 1 spread = 4 pages สำหรับการคิด No. of Pages ในระบบ 
+Estimate All
+
+
+แปลเป็นภาษาง่าย: เวลาคิดกระดาษ/วางเลย์ อย่าคิดแบบ “เดาสุ่มจากความคุ้นเคย” ให้เดินตามนิยามในระบบ ไม่งั้นจำนวนกระดาษ/ต้นทุนจะเพี้ยน
+
+Checklist ที่ AE ต้องถามเพิ่ม (เพื่อให้ราคาไม่พลาด)
+Qty (จำนวนเล่ม)
+
+“12 หรือ 13 spreads” สรุปให้ชัด + ปกนับอย่างไร (ปก 1 ชิ้น? ปก 4 หน้า?)
+
+ต้องการ UV หรือ Aqueous (มีผลทั้งราคาและความทน)
+
+5) ตัวเลือกที่พบบ่อย (ช่วย AE ปิดสเปกได้เร็ว)
+Packaging Tray (ตัวอย่างที่ 1)
+Option A: ไม่พิมพ์ (brown/liner ตามวัสดุ)
+
+ข้อดี: ถูก/เร็ว/เสี่ยงน้อย
+
+ข้อเสีย: Branding น้อย
+
+Option B: พิมพ์ 1–4 สีบนด้านนอก
+
+ข้อดี: สวย ขายง่าย
+
+ข้อเสีย: เพิ่มต้นทุน Print/Plate และความเสี่ยง QC
+
+Board book (ตัวอย่างที่ 2)
+Option A: Gloss UV
+
+ข้อดี: เงาชัด ทนเปื้อนกว่า
+
+ข้อเสีย: ต้นทุนมักสูงกว่า
+
+Option B: Aqueous varnish
+
+ข้อดี: กลิ่นน้อย ลุคนุ่มกว่า
+
+ข้อเสีย: กันรอยโดยรวมมักด้อยกว่า UV
+
+ขอข้อมูลเพิ่ม (ไม่เกิน 3 ข้อ) แล้วผมจะสรุปเป็น “RFQ ที่ส่ง Estimate ได้เลย” ให้
+ตัวอย่างที่ 1: Qty ของ Tray ที่ต้องการเสนอราคา = เท่าไร? (เช่น 5,000 / 20,000)
+
+ตัวอย่างที่ 1: Tray พิมพ์หรือไม่ (ถ้าพิมพ์: กี่สี/พิมพ์ด้านไหน)
+
+ตัวอย่างที่ 2: Qty ของหนังสือ และสรุปว่า 12 หรือ 13 spreads (เอา final ตัวเดียว)
+
+ถ้าคุณตอบ 3 ข้อนี้ ผมจะจัดให้เป็น “สเปกพร้อมส่ง Estimate + จุดเสี่ยงที่ต้องกัน” แยกเป็น Packaging และ Book แบบที่ AE ใช้ปิดงานได้ทันทีครับ
+
+
+Sources
+
+คุณสามารถออกแบบ  แบบฟอร์มงาน Packaging ให้ผมได้ หรือไม่ ว่าควรมีการให้ข้อมูลอย่างน้อยอะไรบ้าง ใน Spec งาน
+
+Thought for 15s
+สรุป (3–5 บรรทัด)
+ได้ครับ ผมออกแบบ “แบบฟอร์ม Spec งาน Packaging” สำหรับ AE/Estimate ให้ได้ โดยเน้น ข้อมูลขั้นต่ำที่ต้องมีเพื่อออกใบเสนอราคาได้ไม่พลาด และแยกเป็นหมวดตามต้นทุนจริง: Material → Print → After Press → Packing/Shipping
+ด้านล่างเป็น “แม่แบบ” ที่คุณเอาไปใช้ได้ทันที (คัดลอกไปทำเป็น Excel/Google Form/ERP ได้)
+ถ้าคุณใช้ 1 หน้าให้กรอกเร็ว + 1 หน้าเป็นรายละเอียดเสริม จะเหมาะที่สุดสำหรับงานจริง
+
+แบบฟอร์ม Spec งาน Packaging (ขั้นต่ำที่ต้องมี) — สำหรับ AE ส่งให้ Estimate
+แนะนำทำเป็น 2 ส่วน: (A) ข้อมูลบังคับ + (B) รายละเอียดเสริม/ความเสี่ยง
+
+A) ข้อมูลบังคับ (กรอกไม่ครบ = ตีราคาเสี่ยง)
+1) ข้อมูลโครงการ
+
+Customer/Brand: __________
+
+Project Name / Item Name: __________
+
+Contact / ผู้รับผิดชอบ (AE): __________
+
+วันที่ต้องการราคา: //____
+
+สกุลเงิน/เงื่อนไขราคา (Currency/Incoterm): __________ (เช่น THB / FOB / EXW)
+
+2) ประเภทบรรจุภัณฑ์ (เลือกให้ชัด)
+
+ Tray / [ ] Sleeve box / [ ] Carton box / [ ] Display box / [ ] Divider / [ ] Label / [ ] อื่นๆ _________
+
+เป็น “ชิ้นส่วน” หรือ “ชุด”:
+
+ ชิ้นเดียว [ ] หลายชิ้น (ระบุรายการชิ้นส่วน) __________________
+
+3) การใช้งาน/สิ่งที่บรรจุ (ช่วยกันพลาดเรื่องความแข็งแรง)
+
+สินค้าที่บรรจุ: __________
+
+Net weight: ____ g / ____ kg
+
+ขนาดสินค้า/ภาชนะ (ถ้ามี): __________ (เช่น Can size 209.5/208x107 EOE)
+
+รูปแบบการแพ็ค: __________ (เช่น 12 Cans/Tray + Sleeve)
+
+4) ขนาด & แบบไดคัท (สำคัญที่สุด)
+
+มี Dieline/แบบตัดหรือยัง: [ ] มี (แนบไฟล์) [ ] ยังไม่มี (ให้ทำใหม่)
+
+ขนาดชิ้นงาน: ระบุแบบใดแบบหนึ่งให้ชัด
+
+ Internal (ID) [ ] External (OD) [ ] Score line
+
+Dimension (W x L x H): ____ x ____ x ____ (หน่วย: mm / inch)
+
+Bleed / Safe area (ถ้ามี): __________
+
+ความคลาดเคลื่อนที่ยอมรับ (tolerance): __________
+
+5) วัสดุ (Material)
+
+ประเภท: [ ] Paperboard [ ] Corrugated [ ] Plastic [ ] อื่นๆ ______
+
+Spec วัสดุ:
+
+ถ้า Corrugated: Flute ____ (E/B/C/ฯลฯ), Grade/Liner: __________
+
+GSM/Thickness: __________
+
+Requirement พิเศษ: [ ] FSC [ ] Food contact [ ] Recycled% ___ [ ] อื่นๆ ______
+
+6) งานพิมพ์ (Print)
+
+พิมพ์หรือไม่: [ ] ไม่พิมพ์ [ ] พิมพ์
+
+สี: ____ สี (เช่น 1c/2c/4c CMYK)
+
+พิมพ์: [ ] 1 ด้าน [ ] 2 ด้าน
+
+พื้นที่พิมพ์: [ ] เต็มแผ่น [ ] บางส่วน (ระบุ) ________
+
+งานพิเศษหมึก: [ ] Spot color [ ] Metallic ink [ ] White ink [ ] อื่นๆ ____
+
+7) งานหลังพิมพ์ (After Press / Finishing)
+
+เคลือบ: [ ] None [ ] Varnish [ ] Aqueous [ ] UV [ ] Lamination (Matte/Gloss)
+
+งานพิเศษ: [ ] Foil (สี____) [ ] Emboss [ ] Deboss [ ] Spot UV [ ] Window patch
+
+Die-cut: [ ] ใช้มีดเดิม [ ] ทำมีดใหม่
+
+การประกอบ: [ ] ไม่ติดกาว [ ] ติดกาว (จุด/แนว) ________ [ ] พับประกอบอื่นๆ ________
+
+8) จำนวนผลิต (Qty) — ต้องมี
+
+Qty ที่ต้องการเสนอราคา: ________ ชิ้น
+
+ถ้ามีหลาย Tier (แนะนำ): ______ / ______ / ______
+
+เผื่อเสีย/Over run ที่ยอมรับ: ________%
+
+9) Packing / Shipping
+
+Packing แบบ: [ ] Bulk [ ] ใส่ถุง [ ] Carton [ ] Pallet
+
+จำนวนต่อกล่อง: ________ ชิ้น/CTN (ถ้ารู้)
+
+ปลายทางส่ง: __________ (ประเทศ/จังหวัด/คลัง)
+
+เงื่อนไขส่งมอบ: __________ (เช่น FOB/EXW/DDP)
+
+ต้องการเอกสาร: [ ] COA [ ] FSC cert [ ] Test report [ ] อื่นๆ ____
+
+10) ไฟล์งาน/การอนุมัติ
+
+Artwork: [ ] AI/PDF [ ] ยังไม่มีไฟล์ (ต้องช่วยออกแบบ)
+
+Barcode/Regulatory text: [ ] ลูกค้าให้ [ ] ให้เราทำ
+
+Proof: [ ] Digital [ ] Colour proof [ ] Dummy/Mockup
+
+ผู้อนุมัติสุดท้าย: __________
+
+B) รายละเอียดเสริม (ช่วยลดการเคลม/ลดต้นทุนแฝง)
+Performance requirement: [ ] Compression [ ] Drop test [ ] Stacking ____ ชั้น [ ] Moisture resistance
+
+สภาพแวดล้อม: [ ] แช่เย็น [ ] โดนน้ำ/ความชื้น [ ] โดนแสง [ ] อื่นๆ ____
+
+ข้อห้าม/ข้อกำหนดแบรนด์: สีต้องตรง / Delta E / Pantone บังคับ / ห้ามกลิ่นกาว ฯลฯ
+
+Timeline: ต้องการ Sample วันที่ ___ / Production วันที่ ___ / Ship วันที่ ___
+
+ข้อสังเกต: __________
+
+Checklist สั้นๆ สำหรับ AE ก่อนส่ง Estimate (กันงานตีกลับ)
+ ระบุ “ประเภทงาน” ชัด (Tray/Sleeve/Box/ฯลฯ) และถ้าเป็นหลายชิ้นแยกชิ้นส่วนครบ
+
+ มี “ขนาด” พร้อมหน่วย และระบุว่า ID/OD/Score line
+
+ วัสดุครบ (Flute/Grade/GSM/Requirement เช่น FSC/food contact)
+
+ บอก “พิมพ์หรือไม่” ถ้าพิมพ์บอกสี/ด้าน/Spot
+
+ Finishing/Die-cut/กาว/ประกอบ ระบุครบ
+
+ Qty อย่างน้อย 1 ค่า (แนะนำ 3 Tier)
+
+ Packing/Shipping terms/ปลายทาง
+
+ แนบ Dieline/Artwork หรือบอกชัดว่ายังไม่มี
+
+3 ทางเลือกในการทำฟอร์ม (เลือกตามวิธีทำงานของคุณ)
+ตัวเลือก 1: ฟอร์ม 1 หน้า (Minimum RFQ)
+ข้อดี: กรอกไว AE ใช้จริงทุกวัน
+
+ข้อเสีย: งานซับซ้อนอาจข้อมูลไม่พอ ต้องคุยเพิ่ม
+
+เวลาเริ่มใช้: เร็วสุด (วันนี้ใช้ได้เลย)
+
+ตัวเลือก 2: ฟอร์ม 2 หน้า (1 หน้า Mandatory + 1 หน้า Performance/QA)
+ข้อดี: กันพลาดเรื่องเคลม/ทดสอบ/ข้อกำหนดแบรนด์
+
+ข้อเสีย: กรอกนานขึ้นเล็กน้อย
+
+เวลาเริ่มใช้: 1–2 วัน ปรับตามทีม
+
+ตัวเลือก 3: ทำเป็น Google Form / ERP Screen (มี dropdown + บังคับกรอก)
+ข้อดี: ข้อมูลครบเป็นมาตรฐาน ลดงานตีกลับ เก็บสถิติได้
+
+ข้อเสีย: ต้องเซ็ตระบบ/สิทธิ์/ฟิลด์ และสอนทีม
+
+ความเสี่ยง: ถ้า dropdown ไม่ครอบคลุม จะทำให้ทีมกรอกมั่ว
+
+ขอถามเพิ่มไม่เกิน 3 ข้อ (เพื่อจัดไฟล์ “พร้อมใช้” ให้ตรงระบบคุณ)
+คุณอยากได้ฟอร์มเป็น Excel, Google Form, หรือ หน้าจอ ERP (ระบุฟิลด์/ชนิดข้อมูล)?
+
+งานของคุณเน้น Corrugated (กล่องลูกฟูก) เป็นหลักไหม หรือมี Paperboard/Label เยอะด้วย?
+
+ต้องการให้มีส่วน “คำนวณอัตโนมัติ” ไหม (เช่น คุมว่าถ้าเลือก Flute แล้วต้องกรอก Grade / ถ้าเลือก Foil ต้องกรอกสี+พื้นที่)?
+
+ถ้าตอบ 3 ข้อนี้ ผมจะจัด “Template เวอร์ชันใช้งานจริง” ให้เป็นโครงฟิลด์แบบเป็นตาราง (คัดลอกลง Excel/ERP ได้ทันที) และทำเวอร์ชันย่อสำหรับ AE อีก 1 หน้าให้ครับ
+
+
+อยากให้คุณดูไฟล์ที่ผมแนบให้สำหรับงาน Packaging เราจะมีรูปแบบอยู่ 12 รูปแบบ  และที่คุณส่งมาผมไม่เห็นเรื่องสีพิเศษ หรือการทำ Limit สี   
+
+Thought for 46s
+สรุป (3–5 บรรทัด)
+ผมดูไฟล์แล้ว: ระบบงาน Packaging ของคุณมี Template Type 1–12 ตามที่ระบุในไฟล์จริง 
+Estimate Packaging วิธีคิด1
+
+
+ในไฟล์มีเรื่อง Special Ink (สีพิเศษ) และมีหัวข้อ Color Limit: Light / Standard / Dark ชัดเจน 
+Estimate All
+
+
+และการคิดราคาในฝั่ง Estimate แยก Outside/Inside และผูกกับ “จำนวนสีที่พิมพ์” โดยตรง (เพลท/พิมพ์) 
+Estimate Packaging วิธีคิด1
+
+ 
+Estimate Packaging วิธีคิด1
+
+
+ด้านล่างคือ “แบบฟอร์ม Packaging เวอร์ชันตามไฟล์คุณ” ที่ใส่ทั้ง 12 รูปแบบ + สีพิเศษ + Color Limit แล้ว
+
+แบบฟอร์ม Spec งาน Packaging (ปรับตามไฟล์คุณ)
+1) Header (บังคับ)
+Customer/Brand:
+
+Project/Item name:
+
+AE/Owner:
+
+RFQ date / Due date:
+
+Currency / Incoterm / Destination:
+
+2) เลือก “รูปแบบงาน” (Template Type 1–12) — บังคับ
+ให้ทำเป็น Dropdown ตามนี้ (ตามไฟล์) 
+Estimate Packaging วิธีคิด1
+
+
+Reverse Tuck End (กล่องฝาคู่) 
+Estimate Packaging วิธีคิด1
+
+
+(ในไฟล์ชุดนี้หน้าที่ list อาจไม่ได้โชว์ Type 2 ชัด — แนะนำคงเลขไว้ตามระบบของคุณ)
+
+Tuck Top Snap Lock Bottom – TTSLB (ออโต้ล็อคแบบหูขัด) 
+Estimate Packaging วิธีคิด1
+
+
+Tuck Top Auto Bottom – TTAB (ออโต้ล็อคแบบทากาว) 
+Estimate Packaging วิธีคิด1
+
+
+Double Glue Side Wall / Simplex Tray (กล่องฝาครอบ) 
+Estimate Packaging วิธีคิด1
+
+
+Frame-Vue Tray (กล่องฝาครอบมีขอบ) 
+Estimate Packaging วิธีคิด1
+
+
+Four Corner Beers Tray with Lid (กล่องเบนโตะ) 
+Estimate Packaging วิธีคิด1
+
+
+Gable Top with Auto Bottom (กล่องทรงจั่ว) 
+Estimate Packaging วิธีคิด1
+
+
+Sleeve (ปลอกกล่อง) 
+Estimate Packaging วิธีคิด1
+
+
+Pillow Box (กล่องทรงหมอน) 
+Estimate Packaging วิธีคิด1
+
+
+Seal End (กล่องฝาปิดแบบทากาว) 
+Estimate Packaging วิธีคิด1
+
+
+Custom 
+Estimate Packaging วิธีคิด1
+
+
+หมายเหตุ: ในไฟล์ “Estimate All” ก็มี list Type 1 และ Type 3–12 เช่นกัน 
+Estimate All
+
+
+3) ขนาด + แบบไดคัท (บังคับ)
+มี Dieline/Diecut file: มี/ไม่มี
+
+Dimension type: ID / OD / Score line
+
+W / L / H (หน่วย mm): ____ / ____ / ____
+
+Bleed / Safe / Tolerance: __________
+
+จำนวนชิ้นส่วนใน 1 set (ถ้ามีหลายชิ้น): __________
+
+4) Material (บังคับ)
+Material family: Corrugated / Paperboard / Other
+
+Flute / Grade / Liner (เช่น DP250/CA105/CA125-E): __________
+
+GSM/Thickness (ถ้ามี): __________
+
+Requirement: FSC / Food contact / Recycled / Other
+
+5) Print & Color (ส่วนที่คุณท้วงมา) — บังคับถ้ามีพิมพ์
+ในไฟล์กำหนดว่า Packaging คิด Print (Press) – Special ink เป็นหมวดชัดเจน 
+Estimate All
+
+
+และการคิดเพลท/พิมพ์ผูกกับ “จำนวนสี” 
+Estimate Packaging วิธีคิด1
+
+ 
+Estimate Packaging วิธีคิด1
+
+
+5.1 แยก Outside / Inside (ตามไฟล์)
+Outside: พิมพ์/ไม่พิมพ์
+
+Inside: พิมพ์/ไม่พิมพ์ 
+Estimate Packaging วิธีคิด1
+
+ 
+Estimate Packaging วิธีคิด1
+
+
+5.2 ระบบสี (Color System)
+ CMYK (4 สีมาตรฐาน) 
+Estimate All
+
+
+ Special Ink / Spot (สีพิเศษ แยกหมึก ไม่ผสมจาก CMYK) 
+Estimate All
+
+
+5.3 จำนวนสี + รายละเอียดสีพิเศษ (ถ้ามี)
+Total colors (Outside): ____ สี | (Inside): ____ สี
+
+Special ink count (Outside): ____ | (Inside): ____
+
+ระบุรหัสสี (Pantone/Ref) หรือชื่อสี: __________________
+
+ต้อง “คุมสี” ระดับไหน: Proof / Standard / Brand strict (แนบ guideline)
+
+5.4 Color Limit (Light / Standard / Dark)
+Color Limit: [ ] Light [ ] Standard [ ] Dark 
+Estimate All
+
+
+หมายเหตุ/ตัวอย่างภาพ coverage (ถ้ามี): แนบไฟล์ / ลิงก์
+
+ทำไมต้องมีช่องนี้: เพราะในระบบคุณมีหัวข้อ Color Limit ชัดเจน และมันมักไปกระทบต้นทุนหมึก/ความเสี่ยง QC
+
+6) Coating / Add-ons (ตามไฟล์) — เลือกถ้ามี
+Coating: None / Aqueous / UV / Spot UV (ระบุขนาด spot) 
+Estimate Packaging วิธีคิด1
+
+
+Foil stamp: มี/ไม่มี (สีฟอยล์/ขนาดพื้นที่/ตำแหน่ง) 
+Estimate Packaging วิธีคิด1
+
+
+Emboss / Deboss: มี/ไม่มี 
+Estimate All
+
+
+7) After Press (บังคับ)
+Die-cut: มีดเดิม / ทำมีดใหม่
+
+Assembly: ติดกาว/พับ/ประกบ (อธิบายจุด/แนบภาพ)
+
+Inspection requirement: มาตรฐานทั่วไป / 100% / AQL / อื่นๆ
+
+8) Qty & Pricing scenario (บังคับ)
+Qty: ________
+
+ขอราคา 1 ระดับหรือหลายระดับ: ________ / ________ / ________
+
+Waste allowance (ถ้ามี policy): ________%
+
+9) Packing / Shipping (บังคับ)
+Packing: Paper band / Kraft wrap / Carton / Pallet 
+Estimate All
+
+
+Pack per carton / Pallet requirement (ถ้ารู้): ________
+
+Destination / Incoterm: ________
+
+ตัวเลือกการใช้งานฟอร์ม (2–3 แบบ)
+RFQ แบบ 1 หน้า (Mandatory เท่านั้น)
+
+ข้อดี: AE กรอกไว
+
+ข้อเสีย: งานพิมพ์ซับซ้อนอาจต้องถามเพิ่มเรื่อง Color Limit/Spot
+
+RFQ 2 หน้า (Mandatory + Print/Color/Add-ons ละเอียด)
+
+ข้อดี: ตรงกับระบบคุณมากขึ้น โดยเฉพาะ “Special Ink + Color Limit”
+
+ข้อเสีย: กรอกนานขึ้นเล็กน้อย
+
+Google Form/ERP Screen พร้อมเงื่อนไขบังคับกรอก
+
+ข้อดี: ลดงานตีกลับจาก Estimate มาก
+
+ข้อเสีย: ต้องเซ็ต dropdown/validation (เช่น ถ้าเลือก Special Ink ต้องบังคับใส่ Pantone + Color Limit)
+
+ขอถามเพิ่ม 2 ข้อ (เพื่อทำเวอร์ชัน “พร้อมใช้” ให้เป๊ะกับระบบคุณ)
+“Template Type 2” ในระบบคุณคืออะไรครับ? (ไฟล์หน้าที่ list 1–12 ที่ผมเปิดเจอ แสดง 1 และ 3–12 ชัด แต่ Type 2 ไม่ขึ้นในบรรทัด list ที่เห็น) 
+Estimate Packaging วิธีคิด1
+
+
+ในบริษัทคุณให้ AE เลือก Color Limit (Light/Standard/Dark) จาก “เกณฑ์อะไร” (เช่น %coverage หรืออิง artwork ตัวอย่าง)? ถ้ามี guideline ผมจะใส่เป็นคำอธิบายในฟอร์มให้เลย 
+Estimate All
+
+
+
+Sources
+
+สิ่งที่ผมต้องการคือ  AE สามารถส่งข้อความ  หรือส่งไฟล์เข้ามาในระบบ  
+AI จะเป็นคนสกัดข้อมูลไปลงฟอร์ม  
+ถ้าข้อมูลไม่ครบ สำหรับการคำนวณ Estimate  AI จะถามกลับ User
+ินิยามข้อมูลไม่ครบ  คือข้อมูลไม่เพียงพอต่อการนำไปคิดราคาต่อได้
+
+ดังนั้นช่วยออกแบบฟอร์มให้ด้วยครับ  
+
+Thought for 2m 2s
+สรุป (3–5 บรรทัด)
+ได้ครับ ผมออกแบบ “ฟอร์มกลาง” สำหรับงาน Packaging ที่ AE ส่งข้อความ/ไฟล์เข้ามา แล้ว AI สกัดลงฟอร์ม และถ้าข้อมูลไม่พอ AI จะถามกลับเฉพาะ “ตัวที่กันการคิดราคา”
+
+ฟอร์มนี้ยึดโครง MI2 ตามไฟล์ของคุณ: Materials → Print(Press)–Special ink → After Press → Packing + Add-ons 
+Estimate All
+
+
+รองรับ Template Type 1–12 ตามไฟล์ และรองรับ Special Ink + Color Limit (Light/Standard/Dark) ที่คุณท้วงมา 
+Estimate Packaging วิธีคิด1
+
+ 
+Estimate All
+
+
+1) โครงแบบฟอร์ม (AI Fillable) — แนะนำให้ทำ “Project 1 งาน” มี “Components หลายชิ้น”
+เหตุผล: งานจริงมักเป็น “Tray + Sleeve” หรือหลายชิ้นต่อ 1 set จึงต้องแยกเป็น Component เพื่อคิดต้นทุน/เพลท/ไดคัท/ประกอบได้ถูก
+
+A) Project Header (ระดับงาน)
+บังคับ
+
+Customer/Brand
+
+Project / Item name
+
+AE owner / requester
+
+Currency
+
+Incoterm / destination (ถ้าคิดรวม packing/ส่งออก)
+
+เสริม (ช่วยลดการถามกลับ)
+
+Required timeline: ขอราคา / ขอ sample / ขอส่งของ
+
+Notes / compliance (เช่น FSC, food contact)
+
+B) Component List (ระดับ “ชิ้นงาน” — ทำซ้ำได้หลายรายการ)
+B1) Component identity
+
+Component name (เช่น Tray / Sleeve / Divider)
+
+Component role: [primary / secondary]
+
+Qty basis:
+
+“Selling unit qty” (จำนวนชุดที่จะขาย)
+
+“Units per set” (ชิ้นต่อ 1 ชุด)
+
+Component Qty = set qty × units per set
+
+B2) Template Type (บังคับ)
+Dropdown: Type 1–12 ตามไฟล์ 
+Estimate Packaging วิธีคิด1
+
+
+Type 1 Reverse Tuck End
+
+Type 2 Straight Tuck End
+
+Type 3 Tuck Top Snap Lock Bottom (TTSLB)
+
+Type 4 Tuck Top Auto Bottom (TTAB)
+
+Type 5 Double Glue Side Wall (Simplex Tray)
+
+Type 6 Frame-Vue Tray
+
+Type 7 Four Corner Beers Tray with Lid
+
+Type 8 Gable Top with Auto Bottom
+
+Type 9 Sleeve
+
+Type 10 Pillow Box
+
+Type 11 Seal End
+
+Type 12 Custom
+
+B3) Dimension / Dieline (บังคับแบบ “เลือก 1 ใน 2 วิธี”)
+
+วิธีที่ 1: แนบ Dieline/Diecut PDF/AI (แนะนำสุด)
+
+วิธีที่ 2: กรอกตัวแปรเพื่อให้ระบบคำนวณ layout size ได้
+
+Base dims: w, l, d (กว้าง/ยาว/สูง) 
+Estimate Packaging วิธีคิด1
+
+
+Flaps ตาม template: dust, t, g, ol (ถ้ามี) 
+Estimate Packaging วิธีคิด1
+
+
+Unit: mm/inch + ระบุว่า ID/OD/Score line
+
+(ระบบมี default allowance เช่น b=3mm, paper edge/color bar/gripper) 
+Estimate Packaging วิธีคิด1
+
+
+นิยามสำคัญ: Layout size คือ “open size รวม bleed” และ Paper size มีเผื่อ gripper/color bar/paper edge 
+Estimate Packaging วิธีคิด1
+
+
+B4) Material (บังคับ)
+
+Material family: Corrugated / Paperboard / Other
+
+Spec: Flute / Grade / Liner / GSM / Thickness (ตามที่บริษัทใช้ระบุ)
+
+B5) Print & Color (บังคับ “ถ้ามีพิมพ์”)
+
+Print process: Offset / Flexo / Jet Press / Konica 
+Estimate All
+
+
+Print sides: Outside / Inside (ระบุแยก)
+
+Color system: CMYK หรือ Special Ink 
+Estimate All
+
+
+Color count: Outside __สี / Inside __สี
+
+Special ink details (ถ้ามี): จำนวน + รหัส (Pantone/Ref)
+
+Color Limit: Light / Standard / Dark 
+Estimate All
+
+
+B6) After Press (บังคับขั้นต่ำ)
+
+Die-cut: ใช้มีดเดิม / ทำมีดใหม่
+
+Assembly: มี/ไม่มี + ประเภท (พับ/ติดกาว/ประกบ)
+
+Inspection: มาตรฐาน / 100% / AQL / อื่นๆ
+
+หมายเหตุ: ในระบบคุณมีแนวคิด Assembly factor ตามจำนวนจุดกาว (ถ้าจะให้ AI ถามละเอียด ควรมีช่องนี้ด้วย) 
+Estimate Packaging วิธีคิด1
+
+
+B7) Add-ons (ถ้ามี)
+
+Coating / Foil stamp / Emboss / Deboss (ติ๊กเลือก) 
+Estimate All
+
+
+B8) Packing (บังคับขั้นต่ำ)
+
+Packing method: Paper band / Kraft wrap / Carton / Pallet 
+Estimate All
+
+
+Pack per carton / pallet requirement (ถ้ามี)
+
+2) นิยาม “ข้อมูลไม่ครบ” (AI ต้องถามกลับ) = ข้อมูลไม่พอให้คำนวณต้นทุนหลัก 4 ก้อน
+อิงโครง MI2 ในไฟล์ของคุณ 
+Estimate All
+
+
+เกณฑ์ความครบต่อ 1 Component (ขั้นต่ำเพื่อ “เริ่มคิดราคาได้”)
+Template Type (1–12) 
+Estimate Packaging วิธีคิด1
+
+
+ขนาดสำหรับวางเลย์: มี Dieline หรือมีพารามิเตอร์ครบพอคำนวณ layout size (w,l,d + flap ที่ template ต้องใช้) 
+Estimate Packaging วิธีคิด1
+
+
+Material spec (อย่างน้อย family + flute/grade หรือ gsm)
+
+Qty (ของ component นั้น)
+
+ถ้า “พิมพ์”: ต้องมี process + สี (CMYK/Spot) + จำนวนสี + Color Limit 
+Estimate All
+
+ 
+Estimate All
+
+
+After press ขั้นต่ำ: diecut ใหม่/เดิม + มี/ไม่มีกาว/ประกอบ
+
+Packing method ขั้นต่ำ (paper band/kraft/carton/pallet) 
+Estimate All
+
+
+ถ้าขาด “ข้อใดข้อหนึ่ง” ด้านบน = ยังไม่พอคิดราคา (Blocking) และ AI ต้องถามกลับ
+
+3) กติกาการถามกลับของ AI (ให้ AE ไม่รำคาญ แต่ได้ข้อมูลครบ)
+แนวทาง
+
+AI แสดง “สิ่งที่สกัดได้แล้ว” + “รายการที่ยังขาด (Blocking)”
+
+ถามกลับ ไม่เกิน 3 คำถามต่อรอบ โดยเรียงลำดับ “กันการคำนวณมากสุดก่อน” (Qty → Dieline/Dimension → Print/Color)
+
+ตัวอย่างคำถามกลับ (Template)
+Qty: “ขอจำนวนผลิต (Qty) ของ [Tray/Sleeve] เท่าไรครับ?”
+
+ขนาด/ไดคัท: “มีไฟล์ dieline/Diecut ไหมครับ? ถ้าไม่มี รบกวนระบุ w,l,d และความยาว flap ที่เกี่ยวข้อง (dust/t/g/ol) หรือยืนยันว่าใช้แบบมาตรฐานของ Template Type ___” 
+Estimate Packaging วิธีคิด1
+
+
+สี/การพิมพ์: “ชิ้นนี้พิมพ์ไหมครับ? ถ้าพิมพ์: ใช้ process ไหน (Offset/Flexo/JetPress/Konica) + Outside/Inside กี่สี + มี Special Ink ไหม + Color Limit (Light/Standard/Dark)?” 
+Estimate All
+
+ 
+Estimate All
+
+
+4) รูปแบบฟอร์มที่พร้อมเอาไปทำจริง (2–3 ทางเลือก)
+ตัวเลือก 1: “Minimal Blocking Form” (เร็วสุด)
+มีเฉพาะฟิลด์ที่เป็น Blocking ตามข้อ 2
+
+ข้อดี: AE ส่งงานไว, AI ถามเท่าที่จำเป็น
+
+ข้อเสีย: งานซับซ้อนอาจต้องถามหลายรอบ
+
+ตัวเลือก 2: “MI2 Full Form” (ลดถามกลับที่สุด)
+เก็บครบทุกหมวด Materials/Print/After press/Packing/Add-ons ตามไฟล์ 
+Estimate All
+
+
+ข้อดี: ส่งครั้งเดียวจบ, ลดการตีความ
+
+ข้อเสีย: ฟอร์มยาวกว่า (แต่ AI เป็นคนกรอกให้)
+
+ตัวเลือก 3: “Chat-to-Form + Confidence”
+AI สกัดฟิลด์ + ให้คะแนนความมั่นใจ + ให้ user กดยืนยันเฉพาะช่องสำคัญ (Qty/Print/Color limit)
+
+ข้อดี: เหมาะกับการรับ “ข้อความสั้นๆ” และไฟล์หลายแบบ
+
+ข้อเสีย: ต้องทำหน้าจอ review เล็กน้อย
+
+5) (แถม) โครงข้อมูลแบบ JSON สำหรับทีม Dev/ERP (ถ้าคุณจะให้ AI ยิงเข้าระบบ)
+{
+  "project": {
+    "customer": "",
+    "project_name": "",
+    "currency": "THB",
+    "incoterm": "",
+    "destination": "",
+    "owner_ae": ""
+  },
+  "components": [
+    {
+      "component_name": "Tray",
+      "template_type": 5,
+      "qty_set": null,
+      "units_per_set": 1,
+      "qty_component": null,
+      "dimension": {
+        "method": "dieline|parameters",
+        "unit": "mm",
+        "id_od_score": "score",
+        "w": null, "l": null, "d": null,
+        "dust": null, "t": null, "g": null, "ol": null,
+        "dieline_files": []
+      },
+      "material": { "family": "corrugated", "spec": "" },
+      "print": {
+        "is_printed": null,
+        "process": "offset|flexo|jetpress|konica",
+        "outside_colors": null,
+        "inside_colors": null,
+        "color_system": "cmyk|special_ink|mixed",
+        "special_inks": [{"ref": "PANTONE 123C"}],
+        "color_limit": "light|standard|dark"
+      },
+      "after_press": {
+        "diecut": "new|existing",
+        "assembly": {"has_glue": null, "glue_spots": null},
+        "inspection": "standard|100|aql"
+      },
+      "addons": { "coating": "none|aqueous|uv|lam", "foil": null, "emboss": null, "deboss": null },
+      "packing": { "method": "paper_band|kraft_wrap|carton|pallet", "pack_per_carton": null }
+    }
+  ]
+}
+ขอถามเพิ่ม 3 ข้อ (เพื่อทำ “Form v1” ให้ลงระบบคุณได้พอดี)
+ในระบบของคุณ “บังคับเลือก” Print process ไหม (Offset/Flexo/JetPress/Konica) หรือระบบเลือกเองจาก Qty/วัสดุ? 
+Estimate All
+
+
+คุณต้องการให้ AI “รับไฟล์” อะไรเป็นหลัก: PDF dieline, AI, หรือแค่ภาพ/สเปกข้อความ? (เพราะเรื่อง layout size สำคัญมาก) 
+Estimate Packaging วิธีคิด1
+
+
+Color Limit (Light/Standard/Dark) ในบริษัทคุณให้ AE เลือกตาม “เกณฑ์อะไร” (เช่น %coverage/ตัวอย่างภาพ/ระบุโดยลูกค้า)? 
+Estimate All
+
+
+ถ้าคุณตอบ 3 ข้อนี้ ผมจะสรุป “Form v1” เป็นรายการฟิลด์แบบสุดท้าย (Mandatory/Conditional/Optional) + กติกา validation + ชุดคำถามกลับแบบมาตรฐานให้ครบครับ
+
+
+Sources
+
+1. ระบบเลือกให้เองครับ  (ถ้าไม่ถูกต้อง User เปลี่ยนเองได้ในหน้าฟอร์ม
+2. AI รับได้ทุกแบบที่คุณแจ้ง
+3. Color Limit เป็นระบบในโรงพิมพ์ผม เพื่อสร้างเอกสารสำหรับควบคุมสี ที่ลูกค้าอนุม้ติแล้ว เพื่อเปรียบเทียบกับชิ้นงานครับ  
+
+Thought for 1m 10s
+สรุป (3–5 บรรทัด)
+ผมออกแบบ “Packaging Spec Form v1” ให้ตรงโจทย์ AE ส่งข้อความ/ไฟล์ → AI สกัดลงฟอร์ม → ถ้าข้อมูลไม่พอคิดราคา AI ถามกลับ
+
+โครงฟอร์มยึดตาม Flow ในไฟล์ของคุณ: Materials → Print(Press)–Special Ink → After Press → Packing/Add-ons 
+Estimate All
+
+
+รองรับ Template Type 1–12 และรองรับ Special Ink + Color Limit (Light/Standard/Dark) ตามระบบโรงพิมพ์คุณ 
+Estimate Packaging วิธีคิด1
+
+ 
+Estimate All
+
+
+Print process ให้ระบบเลือกอัตโนมัติ แต่ user override ได้ในหน้าฟอร์ม (ตามที่คุณกำหนด)
+
+Packaging Spec Form v1 (AI Fillable) — โครงฟิลด์ “พร้อมลงระบบ”
+แนวคิดหลัก: 1 โปรเจกต์มีได้หลาย Component (เช่น Tray + Sleeve) เพื่อให้คิดเพลท/พิมพ์/ไดคัท/ประกอบได้ถูก
+
+0) Intake (สิ่งที่ AE ส่งเข้าระบบ)
+intake_text (ข้อความจาก AE)
+
+attachments[] (รับทุกแบบ: PDF/AI/ภาพ/Excel ฯลฯ)
+
+source_channel (เช่น LINE/Email/Portal)
+
+1) Project Header (ระดับโปรเจกต์)
+Mandatory (ขาด = ตีราคาเสี่ยง)
+
+customer_brand (string)
+
+project_name (string)
+
+requester_ae (string/user)
+
+currency (enum)
+
+incoterm (enum) + destination (string)
+
+Optional
+
+timeline_quote_due / timeline_sample_due / timeline_ship_due (date)
+
+compliance_requirements (multi: FSC/food contact/อื่นๆ)
+
+notes
+
+2) Components[] (ระดับชิ้นงาน) — ทำซ้ำได้หลายรายการ
+2.1 Identity & Quantity
+Mandatory
+
+component_name (เช่น Tray / Sleeve / Divider)
+
+component_type (enum: primary/secondary)
+
+qty_requested (number) ← “จำนวนชิ้นนี้” ที่ต้องผลิตจริง (AI คำนวณได้ถ้ามี set qty)
+
+(Optional but recommended) set_qty + units_per_set เพื่อให้ AI คำนวณ qty_requested
+
+นิยาม “ข้อมูลไม่ครบ” (Blocking)
+
+ถ้าไม่มี qty_requested หรือไม่มีข้อมูลพอคำนวณ = AI ต้องถามกลับข้อ 1 ทันที
+
+2.2 Template Type 1–12 (Mandatory)
+template_type (enum 1–12) ตามไฟล์ 
+Estimate Packaging วิธีคิด1
+
+
+1 Reverse Tuck End
+2 Straight Tuck End
+3 Tuck Top Snap Lock Bottom (TTSLB)
+4 Tuck Top Auto Bottom (TTAB)
+5 Double Glue Side Wall (Simplex Tray)
+6 Frame-Vue Tray
+7 Four Corner Beers Tray with Lid
+8 Gable Top with Auto Bottom
+9 Sleeve
+10 Pillow Box
+11 Seal End
+12 Custom
+
+Blocking
+
+ถ้าไม่ระบุ template_type และ AI เดาไม่ได้จากไฟล์/ข้อความ = ต้องถามกลับ
+
+2.3 Dimension / Dieline (Mandatory แบบ “เลือก 1 ใน 2”)
+dimension_method (enum: dieline_file | parameterized)
+
+ถ้า dieline_file: แนบไฟล์ dieline/diecut และระบุ dieline_version (optional)
+
+ถ้า parameterized: ให้ครบขั้นต่ำเพื่อคำนวณ layout size
+
+unit (mm/inch)
+
+dimension_reference (ID/OD/Score line)
+
+w, l, d (number) ตามตัวแปรในไฟล์ 
+Estimate Packaging วิธีคิด1
+
+
+flap ที่เกี่ยวข้อง (กรอกเมื่อ template ต้องใช้): dust, t, g, ol 
+Estimate Packaging วิธีคิด1
+
+
+Blocking
+
+ถ้าไม่มี dieline และ w,l,d ไม่ครบ = ยังคิดกระดาษ/ไดคัทไม่ได้ (AI ต้องถามกลับ)
+
+หมายเหตุ: ในไฟล์คุณมีแนวคิด Layout size / Paper size และค่าเผื่อ (paper edge/color bar/gripper) ซึ่งระบบจะใช้ตอนคำนวณ 
+Estimate Packaging วิธีคิด1
+
+
+2.4 Material (Mandatory)
+material_family (enum: corrugated/paperboard/other)
+
+material_spec (string) เช่น flute/grade/liner/gsm/thickness
+
+cert_requirement (optional multi: FSC/food contact/อื่นๆ)
+
+Blocking
+
+ถ้าไม่มี material spec ระดับ “เลือกซื้อวัตถุดิบไม่ได้” = ถามกลับ
+
+2.5 Print & Color (Conditional Mandatory: ถ้ามีพิมพ์)
+is_printed (bool)
+
+print_process_auto (system) เลือกจากรายการในไฟล์ (Offset/Flexo/Jet Press/Konica ฯลฯ) 
+Estimate All
+
+
+print_process_override (optional enum) + override_reason (string)
+
+แยกด้าน (ตามงานจริง)
+
+print_outside / print_inside (bool)
+
+color_system (enum: CMYK / SpecialInk / Mixed) 
+Estimate All
+
+
+outside_color_count (number) / inside_color_count (number)
+
+special_inks[] (list: {ref/pantone/name, side(out/in), notes})
+
+Color Limit (ตามระบบโรงพิมพ์คุณ)
+
+color_limit (enum: Light/Standard/Dark) 
+Estimate All
+
+
+approved_color_reference (ไฟล์/เลขที่/วันที่ลูกค้าอนุมัติ) ← เพราะคุณใช้เพื่อเทียบกับชิ้นงานจริง
+
+Blocking (เฉพาะกรณีพิมพ์)
+
+ถ้า is_printed=true แต่ไม่มีอย่างน้อย: outside/inside + จำนวนสี + color_limit = AI ต้องถามกลับ
+
+2.6 After Press (Mandatory ขั้นต่ำ)
+diecut (enum: existing/new)
+
+assembly_required (bool)
+
+glue_required (bool) + (optional) glue_spots (number) (ช่วยคำนวณประกอบ/กาว)
+
+inspection_level (enum: standard/100/aql/other)
+
+Blocking
+
+ถ้าไม่รู้ว่า diecut ใหม่/เดิม = ต้นทุนแกว่งมาก → ถามกลับ
+
+2.7 Add-ons (Optional แต่ถ้าเลือกแล้ว “ต้องมีรายละเอียด”)
+รายการตามโครงงานในไฟล์ (เช่น Coating/Foil/Emboss/Deboss) 
+Estimate All
+
+
+coating (none/aqueous/uv/lam/spot) + coating_area (optional)
+
+foil (bool) + foil_color + foil_area_est + foil_position_ref
+
+emboss/deboss (bool) + notes
+
+Conditional Blocking
+
+ถ้า foil=true แต่ไม่ระบุสี/พื้นที่/ตำแหน่งอ้างอิง = ถามกลับ
+
+2.8 Packing (Mandatory ขั้นต่ำ)
+packing_method (enum: paper_band/kraft_wrap/carton/pallet) 
+Estimate All
+
+
+pack_per_carton (optional) / pallet_requirement (optional)
+
+3) กติกา “AI ถามกลับเมื่อข้อมูลไม่ครบ” (Blocking Rules)
+ให้ระบบคำนวณได้ ต้องผ่านขั้นต่ำต่อ Component ดังนี้ (เรียงลำดับถามกลับ):
+
+qty_requested
+
+template_type
+
+dimension_method + (มี dieline หรือ w,l,d ครบ)
+
+material_spec
+
+ถ้าพิมพ์: is_printed + สี/ด้าน + color_limit + (ถ้ามี) special ink ref
+
+diecut (new/existing)
+
+packing_method
+
+รูปแบบการถามกลับ (ไม่เกิน 3 ข้อ/รอบ)
+
+รอบแรกถาม “ตัวกันคำนวณ” สูงสุดก่อน: Qty → Dieline/Dimensions → Print/Color limit
+
+ตัวอย่าง (ระบบจะเลือกถามตามช่องที่ขาดจริง):
+
+Q1: “ชิ้น [Tray] ต้องการผลิตกี่ชิ้น (Qty)?”
+
+Q2: “มีไฟล์ dieline/Diecut ไหมครับ? ถ้าไม่มี รบกวนยืนยัน W/L/H (และอ้างอิงว่า ID/OD/Score line) + template type”
+
+Q3 (ถ้าพิมพ์): “พิมพ์ไหมครับ? ถ้าพิมพ์ รบกวนยืนยัน Outside/Inside กี่สี + มี Special Ink ไหม + Color Limit (Light/Standard/Dark) และอ้างอิงเอกสารอนุมัติสี”
+
+4) วิธีทำงานของระบบ (Workflow ที่ AE จะรู้สึกว่า “ฉลาดและไม่จุกจิก”)
+Ingest: รับข้อความ + ไฟล์ทุกชนิด
+
+Classify: แยก Component อัตโนมัติ (เช่นเจอคำว่า tray/sleeve)
+
+Extract: เติมฟิลด์ พร้อม confidence ต่อฟิลด์ (0–1)
+
+Validate: เช็ค Blocking Rules → ถ้าไม่ผ่าน สร้างคำถามกลับ ≤3 ข้อ
+
+User Review: ให้ AE แก้/override (เช่น print process)
+
+Lock for Estimate: เมื่อครบแล้วส่งต่อโมดูลคำนวณ/ออกเอกสาร
+
+5) ตัวเลือกการทำจริง (2–3 แบบ)
+ตัวเลือก A: “AI เติมฟอร์ม + หน้า Review” (แนะนำ)
+ข้อดี: AE ส่งอะไรก็ได้, AI เติมให้, AE แค่ตรวจช่องสำคัญก่อนส่ง Estimate
+
+ข้อเสีย: ต้องมีหน้าจอ Review
+
+ความเสี่ยง: ถ้าไม่มี confidence/validation ชัด อาจหลุดข้อมูลผิดได้
+
+ตัวเลือก B: “AI เติมฟอร์ม + บังคับยืนยันเฉพาะ Blocking Fields”
+ข้อดี: ลดการกรอกเหลือขั้นต่ำสุด, กันพลาดเรื่องราคา
+
+ข้อเสีย: ยังต้องให้ AE กด confirm 5–7 ช่องต่อ component
+
+ความเสี่ยง: ถ้า AE กดยืนยันแบบไม่ดู อาจผิดทั้งงาน
+
+ตัวเลือก C: “AI เติม 100% แล้วส่งเข้า Estimate เลย”
+ข้อดี: เร็วสุด
+
+ข้อเสีย: เสี่ยงสูง (โดยเฉพาะ Qty/Dimensions/Color limit)
+
+ความเสี่ยง: แนะนำใช้เฉพาะลูกค้าประจำ/สเปกซ้ำๆ
+
+ถ้าคุณต้องการ ขั้นต่อไปผมทำให้ได้ทันทีในแชทนี้:
+
+สรุปเป็น “รายการฟิลด์แบบตาราง” (Field ID / Type / Mandatory / Condition / Validation / ตัวอย่าง) เพื่อให้ทีม Dev นำไปทำหน้าจอและกติกาถามกลับได้ตรง 100%
+บอกผมหน่อยว่าในระบบคุณอยากเก็บ components[] ได้สูงสุดกี่ชิ้นต่อโปรเจกต์ (เช่น 1–10) เพื่อกำหนด UI/โครงข้อมูลให้พอดีครับ
+
+
+Sources
+
+ได้ครับทำมาเลย
+ไม่จำกัด Components ครับ
+
+Thought for 1m 1s
+สรุป (3–5 บรรทัด)
+ผมทำ “Packaging Spec Form v1 (AI Fillable)” ให้เป็น สเปกฟิลด์แบบตาราง + กติกา validation/นิยามข้อมูลไม่ครบ + รูปแบบคำถามกลับ (≤3 ข้อ/รอบ)
+
+โครงฟอร์มยึดตาม MI2 ในไฟล์คุณ: Materials → Print(Press)–Special ink → After Press → Packing + Add-ons 
+Estimate Packaging วิธีคิด1
+
+
+รองรับ Template Type 1–12 
+Estimate Packaging วิธีคิด1
+
+ และรองรับ CMYK / Special Ink + Color Limit (Light/Standard/Dark) 
+Estimate All
+
+
+Component ไม่จำกัดจำนวน (เป็น array)
+
+1) Data Model (โครงสร้างข้อมูลในระบบ)
+RFQ (Project) 1 งาน → มี Components[] หลายชิ้น + Attachments[] หลายไฟล์
+และทุกฟิลด์เก็บ metadata เพื่อ audit ได้: value, confidence, source(type/text/file), evidence_ref
+
+ส่วน “คำนวณ layout/paper size” ระบบคุณมีพารามิเตอร์มาตรฐาน เช่น w,l,d,dust,t,g,ol และเผื่อ b=3mm, paper_edge=4mm, color_bar=8mm, gripper=12mm 
+Estimate Packaging วิธีคิด1
+
+
+2) Field Spec — Project Header (ระดับงาน)
+คอลัมน์: Field ID | Label | Type | Required | Validation/Rule | ตัวอย่าง
+
+Field ID	Label	Type	Required	Validation/Rule	ตัวอย่าง
+project.customer_brand	Customer/Brand	string	MUST	ไม่ว่าง	ZURU
+project.project_name	Project/Item name	string	MUST	ไม่ว่าง	Whipped Mousse
+project.requester_ae	AE/Requester	user/string	MUST	ไม่ว่าง	AE-Name
+project.currency	Currency	enum	MUST	{THB,USD,HKD,…}	USD
+project.incoterm	Incoterm	enum	MUST	{EXW,FOB,CIF,DDP,…}	FOB
+project.destination	Destination	string	MUST	ไม่ว่าง (ถ้า incoterm เกี่ยวส่งออก)	Hong Kong
+project.quote_due_date	Due date (Quotation)	date	OPT	วันที่ถูกต้อง	2026-01-26
+project.compliance	Compliance	multi-enum	OPT	{FSC,Food contact,…}	FSC
+project.notes	Notes	string	OPT	-	-
+3) Field Spec — Components[] (ระดับชิ้นงาน) ไม่จำกัดจำนวน
+โครงนี้ออกแบบเพื่อให้ AI สกัดจากข้อความ/ไฟล์ได้ และพอสำหรับ “เริ่มคิดราคา” ตามหมวดต้นทุน MI2 
+Estimate Packaging วิธีคิด1
+
+
+3.1 Identity & Quantity
+Field ID	Label	Type	Required	Validation/Rule	ตัวอย่าง
+components[i].name	Component name	string	MUST	ไม่ว่าง	Tray
+components[i].role	Role	enum	OPT	{primary,secondary}	primary
+components[i].qty_requested	Qty (ชิ้นนี้)	number	MUST	>0	50,000
+components[i].set_qty	Set Qty	number	OPT	>0	10,000
+components[i].units_per_set	Units per set	number	OPT	>0	5
+components[i].qty_calc_mode	Qty source	enum	SYS	{direct,calculated}	calculated
+Rule: ถ้ามี set_qty และ units_per_set → ระบบคำนวณ qty_requested และตั้ง qty_calc_mode=calculated
+
+3.2 Template Type 1–12 (Mandatory)
+Field ID	Label	Type	Required	Validation/Rule	ตัวอย่าง
+components[i].template_type	Template Type	enum(1..12)	MUST	1–12	5
+components[i].template_name	Template name	string	SYS	map จาก type	Double Glue Side Wall (Simplex Tray)
+รายการ Type 1–12 ตามไฟล์ 
+Estimate Packaging วิธีคิด1
+
+
+3.3 Dimension / Dieline (Mandatory แบบเลือก 1)
+Field ID	Label	Type	Required	Validation/Rule	ตัวอย่าง
+components[i].dimension.method	Dimension method	enum	MUST	{dieline_file,parameterized}	parameterized
+components[i].dimension.unit	Unit	enum	MUST	{mm,inch}	mm
+components[i].dimension.reference	Reference	enum	MUST	{ID,OD,Score}	Score
+components[i].dimension.w	W	number	COND	ต้องมีถ้า parameterized	212
+components[i].dimension.l	L	number	COND	ต้องมีถ้า parameterized	271
+components[i].dimension.d	H/D	number	COND	ต้องมีถ้า parameterized	30
+components[i].dimension.dust	Dust flap	number	COND	ต้องมีถ้า template ต้องใช้	null
+components[i].dimension.t	Tuck flap	number	COND	ต้องมีถ้า template ต้องใช้	null
+components[i].dimension.g	Glue flap	number	COND	ต้องมีถ้า template ต้องใช้	null
+components[i].dimension.ol	OL	number	COND	ต้องมีถ้า template ต้องใช้	null
+components[i].dimension.dieline_files	Dieline file refs	file_ref[]	COND	ต้องมีถ้า dieline_file	[file#123]
+พารามิเตอร์ที่ระบบคุณใช้คิด Layout/Paper size อยู่ในไฟล์ชัดเจน 
+Estimate Packaging วิธีคิด1
+
+ และนิยาม Layout size = open size รวม bleed 
+Estimate Packaging วิธีคิด1
+
+
+3.4 Material (Mandatory)
+Field ID	Label	Type	Required	Validation/Rule	ตัวอย่าง
+components[i].material.family	Material family	enum	MUST	{corrugated,paperboard,other}	corrugated
+components[i].material.spec	Material spec	string	MUST	ไม่ว่าง	E-Flute DP250/CA105/CA125-E
+components[i].material.grade	Grade (optional split)	string	OPT	-	DP250/CA105/CA125
+components[i].material.flute	Flute	string	OPT	-	E
+3.5 Print & Color (Conditional Mandatory: ถ้าพิมพ์)
+หมวดนี้รองรับ “Special Ink” และ “Color Limit: Light/Standard/Dark” ตามไฟล์ 
+Estimate All
+
+
+Field ID	Label	Type	Required	Validation/Rule	ตัวอย่าง
+components[i].print.is_printed	Printed?	bool	MUST	true/false	false
+components[i].print.process_auto	Process (auto)	enum	SYS	ระบบเลือกเอง (user override ได้)	offset
+components[i].print.process_override	Process (override)	enum	OPT	ถ้าแก้ ต้องมีเหตุผล	flexo
+components[i].print.override_reason	Override reason	string	COND	required เมื่อ override	ลูกค้าต้องการ
+components[i].print.outside	Outside printed	bool	COND	required ถ้า is_printed=true	true
+components[i].print.inside	Inside printed	bool	COND	required ถ้า is_printed=true	false
+components[i].print.color_system	Color system	enum	COND	{CMYK,SpecialInk,Mixed}	CMYK
+components[i].print.outside_color_count	Outside colors	number	COND	>0 ถ้า outside=true	4
+components[i].print.inside_color_count	Inside colors	number	COND	>0 ถ้า inside=true	0
+components[i].print.special_inks	Special inks	list	COND	ต้องมีถ้า color_system มี SpecialInk	[{ref:"PANTONE 877C"}]
+components[i].print.color_limit	Color Limit	enum	COND	{Light,Standard,Dark}	Standard
+components[i].print.approved_color_ref	Approved color reference	string/file_ref	OPT (แนะนำ)	เก็บเอกสารควบคุมสีที่ลูกค้าอนุมัติ	DOC#2026-001
+3.6 After Press (Mandatory ขั้นต่ำ)
+Field ID	Label	Type	Required	Validation/Rule	ตัวอย่าง
+components[i].after_press.diecut	Die-cut	enum	MUST	{existing,new}	new
+components[i].after_press.assembly_required	Assembly required	bool	MUST	true/false	true
+components[i].after_press.glue_required	Glue required	bool	MUST	true/false	true
+components[i].after_press.glue_spots	Glue spots	number	OPT	≥0	2
+components[i].after_press.inspection	Inspection	enum	MUST	{standard,aql,100,other}	standard
+3.7 Add-ons (Optional แต่ถ้าเลือกแล้ว “ต้องละเอียด”)
+add-ons ในไฟล์: coating/foil/emboss/deboss 
+Estimate Packaging วิธีคิด1
+
+
+Field ID	Label	Type	Required	Validation/Rule	ตัวอย่าง
+components[i].addons.coating.type	Coating type	enum	OPT	{none,aqueous,uv,lam,spot_uv}	none
+components[i].addons.foil.enabled	Foil enabled	bool	OPT	-	true
+components[i].addons.foil.color	Foil color	string	COND	required ถ้า foil.enabled=true	silver
+components[i].addons.foil.area_est	Foil area estimate	number/string	COND	required ถ้า foil.enabled=true	30x10mm
+components[i].addons.foil.position_ref	Foil position ref	string/file_ref	COND	required ถ้า foil.enabled=true	layer:FOIL
+components[i].addons.emboss.enabled	Emboss	bool	OPT	-	false
+components[i].addons.deboss.enabled	Deboss	bool	OPT	-	false
+3.8 Packing (Mandatory ขั้นต่ำ)
+Field ID	Label	Type	Required	Validation/Rule	ตัวอย่าง
+components[i].packing.method	Packing method	enum	MUST	{paper_band,kraft_wrap,carton,pallet}	pallet
+components[i].packing.pack_per_carton	Pack/Carton	number	OPT	>0	120
+components[i].packing.pallet_req	Pallet requirement	string	OPT	-	fumigation
+4) นิยาม “ข้อมูลไม่ครบ” (Blocking Rules) = ยังคิดราคาไม่ได้
+อิงหมวดต้นทุน MI2 
+Estimate Packaging วิธีคิด1
+
+ ต่อ 1 component ต้องมีอย่างน้อย:
+
+qty_requested
+
+template_type
+
+dimension.method และ
+
+ถ้า dieline_file → ต้องมีไฟล์
+
+ถ้า parameterized → ต้องมี w,l,d (และ flap ที่จำเป็นตาม template) 
+Estimate Packaging วิธีคิด1
+
+
+material.family + material.spec
+
+ถ้า print.is_printed=true → ต้องมี: outside/inside + จำนวนสี + color_system + color_limit 
+Estimate All
+
+
+after_press.diecut
+
+packing.method
+
+ถ้าขาดข้อใดข้อหนึ่งด้านบน = “ข้อมูลไม่พอให้คิดราคาต่อ” และ AI ต้องถามกลับ
+
+5) กติกาการถามกลับ (AI) — ไม่เกิน 3 คำถาม/รอบ
+Priority order (ถามสิ่งที่ “กันการคำนวณ” มากสุดก่อน):
+
+Qty
+
+Dimension/Dieline
+
+Print/Color limit (ถ้ามีพิมพ์)
+
+Material
+
+Diecut
+
+Packing
+
+Template คำถาม (ระบบเลือกใช้ตามช่องที่ขาดจริง)
+
+Q1 (Qty): “ชิ้น {component} ต้องการผลิตกี่ชิ้น (Qty)?”
+
+Q2 (Dimension): “ชิ้น {component} มีไฟล์ dieline/diecut ไหมครับ? ถ้าไม่มี รบกวนยืนยัน W/L/H + หน่วย + (ID/OD/Score line)”
+
+Q3 (Color): “ชิ้น {component} พิมพ์ไหมครับ? ถ้าพิมพ์ รบกวนยืนยัน Outside/Inside กี่สี + CMYK/ Special Ink + Color Limit (Light/Standard/Dark)”
+
+6) ฟิลด์สำหรับงาน “AI Extract” (แนะนำให้มีในทุกฟิลด์)
+เพื่อให้ user มั่นใจ/ตรวจย้อนกลับได้:
+
+confidence (0–1)
+
+source_type (text/file)
+
+source_ref (file id + page/ตำแหน่ง หรือ message id)
+
+evidence_text (snippet สั้นๆ ที่ดึงมา)

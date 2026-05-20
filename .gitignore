@@ -1,0 +1,23 @@
+node_modules/
+.next/
+__pycache__/
+*.pyc
+.env
+.env.local
+.env*.local
+uploads/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Databases (generated — also holds imported master data)
+*.db
+*.sqlite3
+
+# Build / tooling artifacts
+*.tsbuildinfo
+.sixth/
+*.log
+.DS_Store

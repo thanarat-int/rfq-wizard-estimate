@@ -1,0 +1,136 @@
+"""
+Quotation PDF Generator
+สร้างใบเสนอราคา PDF
+"""
+import os
+from reportlab.lib import colors
+from reportlab.lib.pagesizes import A4
+from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+from reportlab.lib.units import cm
+from reportlab.platypus import SimpleDocTemplate, Table, TableStyle, Paragraph, Spacer
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
+
+from app.config import get_settings
+
+settings = get_settings()
+
+
+def generate_quotation_pdf(quotation) -> str:
+    """Generate a branded PDF quotation."""
+    os.makedirs(f"{settings.upload_dir}/quotations", exist_ok=True)
+    pdf_path = f"{settings.upload_dir}/quotations/{quotation.quotation_number}.pdf"
+
+    doc = SimpleDocTemplate(pdf_path, pagesize=A4, topMargin=1.5 * cm, bottomMargin=1.5 * cm)
+    styles = getSampleStyleSheet()
+
+    # Custom styles
+    title_style = ParagraphStyle(
+        "CustomTitle",
+        parent=styles["Title"],
+        fontSize=18,
+        spaceAfter=12,
+    )
+    header_style = ParagraphStyle(
+        "CustomHeader",
+        parent=styles["Heading2"],
+        fontSize=12,
+        spaceAfter=6,
+    )
+
+    elements = []
+
+    # Header
+    elements.append(Paragraph("SIRIVATANA INTERPRINT", title_style))
+    elements.append(Paragraph("QUOTATION / ใบเสนอราคา", header_style))
+    elements.append(Spacer(1, 12))
+
+    # Quotation info
+    info_data = [
+        ["เลขที่ใบเสนอราคา:", quotation.quotation_number],
+        ["ลูกค้า:", quotation.customer_name or "-"],
+        ["บริษัท:", quotation.customer_company or "-"],
+        ["วันที่:", str(quotation.created_at.date()) if quotation.created_at else "-"],
+        ["ใช้ได้ถึง:", str(quotation.valid_until) if quotation.valid_until else "-"],
+    ]
+    info_table = Table(info_data, colWidths=[5 * cm, 12 * cm])
+    info_table.setStyle(TableStyle([
+        ("FONTSIZE", (0, 0), (-1, -1), 10),
+        ("TEXTCOLOR", (0, 0), (0, -1), colors.grey),
+        ("VALIGN", (0, 0), (-1, -1), "TOP"),
+        ("BOTTOMPADDING", (0, 0), (-1, -1), 4),
+    ]))
+    elements.append(info_table)
+    elements.append(Spacer(1, 20))
+
+    # Items table
+    items = quotation.items_json.get("items", []) if quotation.items_json else []
+
+    table_data = [["#", "รายการ", "จำนวน", "ราคาต่อหน่วย", "รวม"]]
+
+    for i, item in enumerate(items, 1):
+        calc = item.get("calculation", {})
+        desc = f"{item.get('product_type', '')} {item.get('product_name', '')}"
+        qty = item.get("quantity", 0)
+        unit_cost = calc.get("unit_cost", 0)
+        total = calc.get("total_cost", 0)
+        table_data.append([
+            str(i),
+            desc.strip(),
+            f"{qty:,}",
+            f"{unit_cost:,.2f}",
+            f"{total:,.2f}",
+        ])
+
+    # Summary rows
+    table_data.append(["", "", "", "รวมก่อนส่วนลด:", f"{quotation.total_price:,.2f}"])
+    if quotation.discount_pct > 0:
+        table_data.append(["", "", "", f"ส่วนลด ({quotation.discount_pct}%):", f"-{(quotation.total_price * quotation.discount_pct / 100):,.2f}"])
+    table_data.append(["", "", "", "รวมสุทธิ (THB):", f"{quotation.final_price:,.2f}"])
+
+    item_table = Table(table_data, colWidths=[1.5 * cm, 7 * cm, 2.5 * cm, 3.5 * cm, 3 * cm])
+    item_table.setStyle(TableStyle([
+        # Header
+        ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#1a365d")),
+        ("TEXTCOLOR", (0, 0), (-1, 0), colors.white),
+        ("FONTSIZE", (0, 0), (-1, 0), 10),
+        ("BOTTOMPADDING", (0, 0), (-1, 0), 8),
+        ("TOPPADDING", (0, 0), (-1, 0), 8),
+        # Body
+        ("FONTSIZE", (0, 1), (-1, -1), 9),
+        ("BOTTOMPADDING", (0, 1), (-1, -1), 6),
+        ("TOPPADDING", (0, 1), (-1, -1), 6),
+        ("ALIGN", (2, 1), (-1, -1), "RIGHT"),
+        # Grid
+        ("GRID", (0, 0), (-1, -4), 0.5, colors.grey),
+        # Summary
+        ("FONTSIZE", (-2, -3), (-1, -1), 10),
+        ("ALIGN", (-2, -3), (-1, -1), "RIGHT"),
+        ("LINEABOVE", (-2, -1), (-1, -1), 1, colors.black),
+        # Alternate rows
+        ("ROWBACKGROUNDS", (0, 1), (-1, -4), [colors.white, colors.HexColor("#f7fafc")]),
+    ]))
+    elements.append(item_table)
+    elements.append(Spacer(1, 20))
+
+    # Terms
+    if quotation.payment_terms or quotation.delivery_days:
+        elements.append(Paragraph("เงื่อนไข:", header_style))
+        if quotation.payment_terms:
+            elements.append(Paragraph(f"- การชำระเงิน: {quotation.payment_terms}", styles["Normal"]))
+        if quotation.delivery_days:
+            elements.append(Paragraph(f"- ระยะเวลาส่งมอบ: {quotation.delivery_days} วันทำการ", styles["Normal"]))
+
+    if quotation.notes:
+        elements.append(Spacer(1, 12))
+        elements.append(Paragraph("หมายเหตุ:", header_style))
+        elements.append(Paragraph(quotation.notes, styles["Normal"]))
+
+    # Footer
+    elements.append(Spacer(1, 40))
+    elements.append(Paragraph("Generated by RFQ Wizard — AI-Powered Estimation System", ParagraphStyle(
+        "Footer", parent=styles["Normal"], fontSize=8, textColor=colors.grey, alignment=1,
+    )))
+
+    doc.build(elements)
+    return pdf_path
